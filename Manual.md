@@ -146,193 +146,51 @@ Activate the "when covered" benefit on the player mat space that you just covere
 
 TIP: Although gaining an extra coin can be a nice benefit, so is building out the last space in each cave! It is often strategic to excavate this last space before you have enough extra items to make this exchange.
 
+## ENTICE (Page 6)
+### ADD A DRAGON TO YOUR PLAYER MAT. (Page 6)
 
+1. Select a dragon from your hand.
 
-ENTICE ADD A DRAGON TO YOUR PLAYER MAT.
+2. Pay the base cost of 1 coin, placing it on the entice action on your player mat. Then pay the additional cost printed at the upper-left of the selected dragon (return these to the general supply).
+   - This cost is usually a combination of gold, crystal, and meat, but some dragons require an additional coin, an egg, and/or milk.
 
-1
-
-Select a dragon from your hand.
-
-2
-
-Pay the base cost of 1 coin, placing it on the entice action on your player mat. Then pay the additional cost printed at the upper-left of the selected dragon (return these to the general supply).
-
-- This cost is usually a combination of gold, crystal, and meat, but some dragons require an additional coin, an egg, and/or milk.
-
-## Spry Horned Lung Dragon
-
-## 33 Medium
-
-## Excavate
-
-## Cost
-
-+ printed on column
-
-## 1St
-
-## Play Most Empty Space In A Cave.
-
-## From Your Hand Into The Left-
-
-## 2Nd
-
-## Entice
-
-## 3Rd
-
-## Cost
-
-+ printed on
-
-## Play Most Excavated Space In A Cave.
-
-## From Your Hand Into The Left-
-
-## Crimson Cavern
-
-3
-
-## Explore
-
-1st Play the dragon on your player mat, following these rules:
-
-COST printed on cave entrance
-
-## 2Nd
-
-Choose a cave and move your adventurer from left to right until you reach a
-
-- You must play the dragon into a 3rd cave that matches 1 of the dragon's Gain preferred habitats (as shown on the left-hand side of the dragon). )
-
-- You must play the dragon into a 3rd cave that matches 1 of the dragon's Gain preferred habitats (as shown on the left-hand side of the dragon). )
-
-.
-
-Return your adventurer here at the end of your turn.
-
-- You must play a dragon into an 1st excavated space on your player 2nd mat. Note that you may not play a 3rd dragon on top of another (unless Gain an ability explicitly directs you to do so). AMETHYST ABYSS
-
-STORE 2 EGGS HERE:
-
-At any time you may convert:
-
-## Cavemat_R11.Indd 1 Cavemat_R11.Indd 1
-
+3. Play the dragon on your player mat, following these rules:
+- You must play the dragon into a 3rd cave that matches 1 of the dragon's Gain preferred habitats (as shown on the left-hand side of the dragon).
+- You must play a dragon into an excavated space on your player 2nd mat. Note that you may not play a 3rd dragon on top of another (unless Gain an ability explicitly directs you to do so).
 - You must play dragons from left to right within each cave.
-
-+
-
-## To Excavate
-
-+
-
-## To Excavate
-
-## Spry Horned Lung Dragon
-
-## 33 Medium
-
-## Cache Up To
-
-## Gain
-
-48
-
-## Gain
-
-## Gain
-
-48
-
-## Cache From The General Supply Onto Any Dragon(S).
-
-## Gain
-
-## Gain
-
-.
-
-## L Lay
-
-## L
-
-1x: 3(
-
-)
-
-## From Your 2 Supply Onto Any Dragon(S).
-
-## Wyr_Cavecards_R8.Indd 3 Wyr_Cavecards_R8.Indd 3
-
-8/8/23 10:27 AM 8/8/23 10:27 AM
-
-## Wyr_Dragoncards_R8.Indd 48 Wyr_Dragoncards_R8.Indd 48
-
-7/27/23 11:28 AM 7/27/23 11:28 AM
-
-4 After you play a dragon, gain the "when played" benefit printed on the dragon (if any).
-
-## Gain
-
-## Gain
-
-## Wyr_Dragoncards_R8.Indd 48 Wyr_Dragoncards_R8.Indd 48
-
+4. After you play a dragon, gain the "when played" benefit printed on the dragon (if any).
+  
 NOTE: Although you may play multiple dragons each round, every time you take the entice action, you may only play 1 dragon (unless the dragon you play directs otherwise).
-
-## Tuck Up To 2 From Your Hand Under Any Dragon(S).
-
-/
-
-1x: 3(
-
-)
-
-/
-
-## Lay
-
-7/27/23 11:28 AM 7/27/23 11:28 AM
 
 IMPORTANT: A fully completed player mat can contain at most 12 dragons. Abilities that allow you to replace or cover dragons are rare, so choose wisely!
 
-## Discard Up To From Your
+### IF YOU ALREADY KNOW WINGSPAN (Page 6)
+...please pay close attention to these key differences in Wyrmspan:
+- Actions are performed by spending coins and often eggs (not action cubes)
+- Explore your caves from left to right to activate abilities (not right to left)
+- There are two nest icons on your cave mat even before you play a dragon
+- Start the game with your choice of 4 cards (from 3 dragons and 3 caves) and a choice of any 3 resources
+- Gain 6 coins and 1 egg at the beginning of each round (four total rounds)
+- A 2-for-1 resource exchange can be used at any time (not just when playing a card)
+- You must excavate a cave space before enticing (playing) a dragon to that space; you begin the game with 3 excavated spaces
+- Card abilities are optional. If an ability gives an opponent a benefit, they may gain it even if you decline to do so.
+- Discard down to 9 cards, 9 coins, and 9 resource tokens at the end of each of your turns
+- The end-round goal scoring is friendly. For example, if two people tie for first, they both gain full VP for first place. The next player takes second place.
 
-## 2 Hand. Lay
-
-1x: 3(
-
-)
-
-## For Each.
-
-IF YOU ALREADY KNOW WINGSPAN …please pay close attention to these key differences in Wyrmspan: • Actions are performed by spending coins and often eggs (not action cubes) • Explore your caves from left to right to activate abilities (not right to left) • There are two nest icons on your cave mat even before you play a dragon • Start the game with your choice of 4 cards (from 3 dragons and 3 caves) and a choice of any 3 resources • Gain 6 coins and 1 egg at the beginning of each round (four total rounds) • A 2-for-1 resource exchange can be used at any time (not just when playing a card)
-
-## Gain
-
-## Gain
-
-## Lay
-
-- You must excavate a cave space before enticing (playing) a dragon to that space; you begin the game with 3 excavated spaces • Card abilities are optional. If an ability gives an opponent a benefit, they may gain it even if you decline to do so. • Discard down to 9 cards, 9 coins, and 9 resource tokens at the end of each of your turns • The end-round goal scoring is friendly. For example, if two people tie for first, they both gain full VP for first place. The next player takes second place.
-
-9/13/23 10:34 AM 9/13/23 10:34 AM
-
-## Dragon Abilities All Dragons Have An Ability Or Benefit Printed On Them. These Come In  Types:
+## DRAGON ABILITIES (Page 7)
+All Dragons Have An Ability Or Benefit Printed On Them. These Come In  Types:
 
 When you play a dragon with a "when played" benefit, you may gain the indicated benefit immediately. Unless you have a special ability, you will only activate this ability once. These benefits are not mandatory, though it is usually in your best interest to gain them. If you play a dragon that gives opponents a benefit, the other players must be allowed to collect their benefit, even if you decline yours.
 
 Whenever your adventurer walks onto a dragon card with an "if activated" ability, you may activate that ability. If you activate an "if activated" ability that gives opponents a benefit, the other players must be allowed to collect that benefit, even if you decline to do so.
 
-IMPORTANT: "If activated" abilities do not activate the turn that you play the dragon.
+> IMPORTANT: "If activated" abilities do not activate the turn that you play the dragon.
 
 "Once per round" abilities provide a benefit at the end of every round. See additional details in the Round End/Upkeep section. If you activate a "once per round" ability that gives opponents a benefit, the other players must be allowed to collect that benefit, even if you decline to do so.
 
 "End game" abilities provide Victory Points (VP) at the end of the game for meeting certain conditions.
 
-## Example Dragon Card
+### Example Dragon Card (Page 7)
 
 To play this dragon, pay 1 meat and 1 gold. (If you used the entice action to play this dragon, you also must pay 1 coin.)
 
@@ -340,57 +198,36 @@ Caves where this dragon can live are indicated on the left side of the dragon ca
 
 Each dragon provides an ability or benefit. This dragon provides a "once per round" ability (described above).
 
-109
-
-## Bellicose Firevern
-
-## 55 Small
-
-## S I V
-
-Pay from the deck. Keep 1, discard 1, and tuck 1 here.
-
-to draw
-
 Earn 5 VP for playing this dragon.
 
-## Dragons Come In 4 Sizes—Large, Medium, Small, And Hatchling.
+Dragons Come In 4 Sizes—Large, Medium, Small, And Hatchling.
 
 Egg storage capacity. Dragons can store 1 egg on each nest icon they have (e.g., this dragon has 1 nest icon).
 
 Dragons have 1 of 4 traits: shy, aggressive, playful, or helpful.
 
-## Wyr_Dragoncards_R8.Indd 109 Wyr_Dragoncards_R8.Indd 109
-
 IMPORTANT: Whenever a dragon looks for a specific category (e.g., in this cave, a trait, a size, etc.), the dragon includes itself if applicable. For example, the Smirking Ridgeback (card 130) looks for playful dragons to tuck a card under; because the Smirking Ridgeback is a playful dragon, a card is tucked under it too.
-
-7/27/23 11:31 AM 7/27/23 11:31 AM
-
-## Tawny Steppe Wyvern
 
 Certain dragons and cave cards direct you to cache a resource onto a dragon, tuck a card under a dragon, lay an egg, or pay an egg:
 
 CACHING A RESOURCE means that you place that resource onto a dragon. Unless otherwise specified, resources that you cache must come from your personal supply. Cached resources remain in place until the end of the game and are worth 1 VP each, unless otherwise specified.
 
-- Resources must be cached onto the dragon that gives you the ability to do so, unless otherwise specified. A dragon that allows you to cache a resource "here" provides you with the ability to cache a resource onto that dragon. TUCKING A CARD means you place a face-down dragon card underneath an already played dragon on your player mat. Unless otherwise specified, cards that you tuck must come from your hand. Tucked cards remain in place until the end of the game and are worth 1 VP each, unless otherwise specified.
+- Resources must be cached onto the dragon that gives you the ability to do so, unless otherwise specified. A dragon that allows you to cache a resource "here" provides you with the ability to cache a resource onto that dragon.
 
-- Resources must be cached onto the dragon that gives you the ability to do so, unless otherwise specified. A dragon that allows you to cache a resource "here" provides you with the ability to cache a resource onto that dragon. TUCKING A CARD means you place a face-down dragon card underneath an already played dragon on your player mat. Unless otherwise specified, cards that you tuck must come from your hand. Tucked cards remain in place until the end of the game and are worth 1 VP each, unless otherwise specified.
-
-- Resources must be cached onto the dragon that gives you the ability to do so, unless otherwise specified. A dragon that allows you to cache a resource "here" provides you with the ability to cache a resource onto that dragon. TUCKING A CARD means you place a face-down dragon card underneath an already played dragon on your player mat. Unless otherwise specified, cards that you tuck must come from your hand. Tucked cards remain in place until the end of the game and are worth 1 VP each, unless otherwise specified.
+TUCKING A CARD means you place a face-down dragon card underneath an already played dragon on your player mat. Unless otherwise specified, cards that you tuck must come from your hand. Tucked cards remain in place until the end of the game and are worth 1 VP each, unless otherwise specified.
 
 - Cards must be tucked under the dragon that gives you the ability to do so, unless otherwise specified by dragon abilities. A dragon that allows you to tuck a card "here" provides you with the ability to tuck a card underneath that dragon.
 
 IMPORTANT: Tucked cards do not count as dragons for purposes of end game abilities or end-of-round goals that require you to have a specific number or type of dragons on your player mat. For instance, if you have a dragon that gives you VP for every medium dragon you have on your player mat, tucked medium dragons do not count.
 
-LAY AN EGG OR PAY AN EGG:
+### LAY AN EGG OR PAY AN EGG: (Page 8)
 
 An ability that lets you "lay an egg" allows you to place an egg onto any dragon with an empty nest icon or onto 1 of the 2 nest icons printed on your player mat. Each nest icon, regardless of its location, can hold 1 egg. If you do not have an empty nest icon available, then you may not lay an egg.
 
-- Note that some dragons direct you to lay an egg "here." This allows you to lay an egg only on that dragon. Other dragons direct you to lay an egg anywhere in a certain cave or a certain column. 37
+- Note that some dragons direct you to lay an egg "here." This allows you to lay an egg only on that dragon. Other dragons direct you to lay an egg anywhere in a certain cave or a certain column.
 
-- Note that some dragons direct you to lay an egg "here." This allows you to lay an egg only on that dragon. Other dragons direct you to lay an egg anywhere in a certain cave or a certain column. 37
-
-- Note that some dragons require you to pay an egg from a specific location (e.g. "Pay an egg from anywhere in this cave").
+Anytime you are directed to "pay an egg" you may discard an egg from any dragon on your player mat or from a nest on your player mat.
+  - Note that some dragons require you to pay an egg from a specific location (e.g. "Pay an egg from anywhere in this cave").
 
 - Eggs on your dragons and player mat at the end of the game are worth 1 VP each, unless otherwise specified.
 
