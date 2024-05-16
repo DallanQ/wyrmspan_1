@@ -1,955 +1,96 @@
-
-## Stonemaier Games Presents
-
-## Wyrmspan
-
-## Designed By Connie Vogelmann
-
-## Art By Clementine Campardou
-
-1-5 players · 90 minutes · ages 14+ · competitive
-
-## Dragon Cards
-
-You are an amateur dracologist in the world of Wyrmspan, a place where dragons of all shapes, sizes, and colors roam the skies. Excavate a hidden labyrinth you recently unearthed on your land and entice these beautiful creatures to roost in the sanctuary of your caves.
-
-## Cave Cards
-
-PAPER/CARDBOARDCOINS/TOKENS/EGGS/MARKERSPLAYER PIECES 1 Dragon Guild board45 coins (silver)1 adventurer in each color4 (double-sided) Dragon Guild tiles25 meat tokens (red)8 player markers (4 for objective scoring; 4 for the Dragon Guild) in each color1 guild token in each color183 dragon cards ("dragons")25 gold tokens (yellow)75 cave cards25 crystal tokens (purple)1 card display board25 milk tokens (white)1 round tracker board55 eggs10 (double-sided) objective tiles20 multiplier tokens (for resources and eggs)5 player mats1 round marker10 (double-sided) quick start guides1 start player marker1 score pad
-
-## Dragon Guild
-
-## Place Unused Marker Below
-
-## Start
-
-## Place Dragon Guild Tile Here, With Correct Player Count Face Up.
-
-## Dragon Guild
-
-## Place Unused Marker Above
-
-## Wyr_Guildmat_R4.Indd 1 Wyr_Guildmat_R4.Indd 1
-
-7/27/23 1:36 PM 7/27/23 1:36 PM
-
-7/27/23 1:36 PM 7/27/23 1:36 PM
-
-## Wyr_Guildmat_R4.Indd 2 Wyr_Guildmat_R4.Indd 2
-
-## Guild Of Seafarers
-
-## 4-5 Player
-
-## 4-5 Player
-
-## Plains Guild
-
-## Excavate 1 Space For Free With From Your Hand.
-
-## From The Deck
-
-Pay , then draw and play it for free. Pay hand for free.
-
-4-5 player , then play
-
-## Rainforest Guild
-
-## Guild Of Highlands
-
-## 4-5 Player
-
-## From Your
-
-## Pay For Free.
-
-, then play
-
-## From Your Hand
-
-## Pay
-
-, then excavate 1 space for free with
-
-## Pay For Free With
-
-, then excavate up to 2 spaces
-
-## From Your Hand Or The Display.
-
-## From Your Hand.
-
-.
-
-## . Lay
-
-, then play
-
-## From Your Hand On Top
-
-## Gain
-
-.
-
-## Gain
-
-## Pay Of Any Dragon On Your Player Mat For Free.
-
-## From Your Hand Or The Display.
-
-Play Ignore all you
-
-## Costs.
-
-END GAME: Gain 11 for every have (round down).
-
-END GAME: Gain 33 for every filled Gain column of dragons on your player mat.
-
-## Gain
-
-.
-
-.
-
-END GAME: Gain 11 for each on END GAME: your player mat. (Include those covered by a dragon.) Gain printed VP
-
-## End Game: Gain Printed Vp
-
-END GAME: Gain 11 for every cost printed on all dragons in 1 of your caves.
-
-66
-
-## (Unlimited)
-
-11
-
-11
-
-66
-
-33
-
-## (Unlimited)
-
-33
-
-## End Game: Gain Printed Vp
-
-## End Game: Gain Printed Vp
-
-11
-
-33
-
-33
-
-11
-
-## (Unlimited)
-
-66
-
-66
-
-## (Unlimited)
-
-8/15/23 2:31 PM 8/15/23 2:31 PM
-
-## Wyr_Guildtiles_R4.Indd 5 Wyr_Guildtiles_R4.Indd 5
-
-## Wyr_Guildtiles_R4.Indd 1 Wyr_Guildtiles_R4.Indd 1
-
-8/15/23 2:31 PM 8/15/23 2:31 PM
-
-8/15/23 2:31 PM 8/15/23 2:31 PM
-
-## Wyr_Guildtiles_R4.Indd 3 Wyr_Guildtiles_R4.Indd 3
-
-8/15/23 2:31 PM 8/15/23 2:31 PM
-
-## Wyr_Guildtiles_R4.Indd 7 Wyr_Guildtiles_R4.Indd 7
-
-## Sentinel Flyer
-
-## White-Bellied Grazer
-
-## Vampiric Horned 44 Dragon Hatchling
-
-## Weary 55 Gryphdragon Large
-
-## 22 Hatchling
-
-## 66 Large
-
-## L
-
-36
-
-1
-
-## L
-
-## U
-
-## Y
-
-## A
-
-## H
-
-## F
-
-## S
-
-## Y
-
-## P
-
-## From Your Supply Here. 24
-
-## Cache Y H
-
-## S I V
-
-. 39
-
-to gain
-
-## E
-
-## Pay
-
-## E
-
-.
-
-Any time you cache
-
-## G
-
-## S
-
-## Here, Gain
-
-## R
-
-## S
-
-## G
-
-## A
-
-## Cache
-
-## When The 3Rd
-
-is cached, also lay
-
-## From Your Supply Here. .
-
-## Here, Gain
-
-Any time you cache
-
-Gain 22 if this dragon is between two other dragons in this cave.
-
-.
-
-## When The 3Rd
-
-.
-
-is cached, also gain
-
-## Wyr_Dragoncards_Hatchlings_R4.Indd 1 Wyr_Dragoncards_Hatchlings_R4.Indd 1
-
-7/24/23 4:57 PM 7/24/23 4:57 PM
-
-## Wyr_Dragoncards_R8.Indd 36 Wyr_Dragoncards_R8.Indd 36
-
-7/27/23 11:27 AM 7/27/23 11:27 AM
-
-## Wyr_Dragoncards_Hatchlings_R4.Indd 24 Wyr_Dragoncards_Hatchlings_R4.Indd 24
-
-7/24/23 4:58 PM 7/24/23 4:58 PM
-
-7/27/23 11:27 AM 7/27/23 11:27 AM
-
-## Wyr_Dragoncards_R8.Indd 39 Wyr_Dragoncards_R8.Indd 39
-
-56
-
-1
-
-4
-
-73
-
-Activate the ability on any dragon on your player mat. to lay
-
-.
-
-## Lay
-
-TABLE OF CONTENTS Setup . . . . . . . . . . . . . . . . . . . . . . . . . . . . .2 Overview . . . . . . . . . . . . . . . . . . . . . . . . .4 Excavate . . . . . . . . . . . . . . . . . . . . . . . . . .5 Entice . . . . . . . . . . . . . . . . . . . . . . . . . . . .6 • Dragon Abilities . . . . . . . . . . . . . . .7 • Hatchlings . . . . . . . . . . . . . . . . . . . .9 Explore . . . . . . . . . . . . . . . . . . . . . . . . . . .10 Additional Rules . . . . . . . . . . . . . . . . . .11 Dragon Guild . . . . . . . . . . . . . . . . . . . . . .12 Round End/Upkeep . . . . . . . . . . . . . . .14 Game End and Scoring . . . . . . . . . . . .15
-
-## Cache From The General Supply Onto Any Dragon(S).
-
-## Up To 3X, Pay
-
-## . Each Opponent
-
-may do this 1x.
-
-8/8/23 10:28 AM 8/8/23 10:28 AM
-
-8/8/23 10:27 AM 8/8/23 10:27 AM
-
-## Wyr_Cavecards_R8.Indd 1 Wyr_Cavecards_R8.Indd 1
-
-## Wyr_Cavecards_R8.Indd 56 Wyr_Cavecards_R8.Indd 56
-
-## Wyr_Cavecards_R8.Indd 73 Wyr_Cavecards_R8.Indd 73
-
-8/8/23 10:28 AM 8/8/23 10:28 AM
-
-8/8/23 10:27 AM 8/8/23 10:27 AM
-
-## Wyr_Cavecards_R8.Indd 4 Wyr_Cavecards_R8.Indd 4
-
-## Card Mat
-
-## Wyr_Cardmat_R1.Indd 1 Wyr_Cardmat_R1.Indd 1
-
-8/8/23 10:24 AM 8/8/23 10:24 AM
-
-## Wyr_Cardmat_R1.Indd 2 Wyr_Cardmat_R1.Indd 2
-
-8/8/23 10:24 AM 8/8/23 10:24 AM
-
-2
-
-4
-
-3
-
-1
-
-## R E K C A R T
-
-## D N E
-
-## Activate
-
-## Activate
-
-## Activate
-
-## Activate
-
-## D N U O R
-
-## Then
-
-## Gain R + 1 E K C A R T
-
-## Then
-
-## Then
-
-## E M A G
-
-## Gain
-
-## Gain
-
-## Then
-
-6
-
-+ 1
-
-6
-
-6
-
-3
-
-4
-
-1
-
-2
-
-+ 1
-
-## Activate
-
-## Activate
-
-## Activate
-
-## Activate
-
-## Score
-
-## Score
-
-## Score
-
-## Score
-
-## D N E
-
-## D N U O R
-
-## Then
-
-## Gain
-
-## Then
-
-## E M A G
-
-## Gain
-
-## Gain
-
-## Then
-
-## Then
-
-+ 1
-
-6
-
-+ 1
-
-6
-
-+ 1
-
-6
-
-## Score
-
-## Score
-
-## Score
-
-## Score
-
-## 1St Place
-
-66
-
-77
-
-44
-
-55
-
-22
-
-44
-
-11
-
-33
-
-## 2Nd Place
-
-11
-
-33
-
-22
-
-## 3Rd Place
-
-00
-
-44
-
-77
-
-55
-
-## 1St Place
-
-66
-
-00
-
-00
-
-00
-
-## All Others
-
-00
-
-2ND PLACE 8/8/23 10:23 AM 8/8/23 10:23 AM
-
-33
-
-11
-
-22
-
-44
-
-## Wyr_Roundtracker_R2.Indd 1 Wyr_Roundtracker_R2.Indd 1
-
-11
-
-## 3Rd Place
-
-22
-
-33
-
-00
-
-00
-
-00
-
-00
-
-## All Others
-
-00
-
-8/8/23 10:23 AM 8/8/23 10:23 AM
-
-## Wyr_Roundtracker_R2.Indd 1 Wyr_Roundtracker_R2.Indd 1
-
-Dragons & cave cards in your Crimson Cavern (Include cave cards covered by a dragon.)
-
-## Hatchlings On Your Player Mat
-
-Dragons & cave cards in your Amethyst Abyss (Include cave cards covered by a dragon.)
-
-## Medium Dragons On Your Player Mat
-
-0/0/1/2
-
-1/2/4/5
-
-0/1/2/3
-
-1/2/4/5
-
-8/15/23 2:38 PM 8/15/23 2:38 PM
-
-8/15/23 2:38 PM 8/15/23 2:38 PM
-
-## Wyr_Roundtrackertiles_R4.Indd 1 Wyr_Roundtrackertiles_R4.Indd 1
-
-## Wyr_Roundtrackertiles_R4.Indd 5 Wyr_Roundtrackertiles_R4.Indd 5
-
-## Wyr_Roundtrackertiles_R4.Indd 3 Wyr_Roundtrackertiles_R4.Indd 3
-
-8/15/23 2:38 PM 8/15/23 2:38 PM
-
-## To Excavate
-
-## Wyr_Roundtrackertiles_R4.Indd 8 Wyr_Roundtrackertiles_R4.Indd 8
-
-## To Excavate
-
-+
-
-8/15/23 2:38 PM 8/15/23 2:38 PM
-
-+
-
-## Excavate
-
-## Cost
-
-## 1St
-
-+ printed on column
-
-## Cache Up To
-
-## From Your Hand Into The Left-
-
-## Play Most Empty Space In A Cave.
-
-## From Your 2 Supply Onto Any Dragon(S).
-
-## 2Nd
-
-)
-
-/
-
-1x: 3(
-
-/
-
-## 3Rd
-
-## Cost
-
-## Entice
-
-+ printed on
-
-## Gain
-
-## Gain
-
-## Lay
-
-## Gain
-
-## Play Most Excavated Space In A Cave.
-
-## From Your Hand Into The Left-
-
-## Crimson Cavern
-
-## Explore
-
-COST printed on cave entrance
-
-## 1St
-
-## 2Nd
-
-## Tuck Up To 2 From Your Hand Under Any Dragon(S).
-
-Choose a cave and move your adventurer from left to right until you reach a
-
-)
-
-## 3Rd
-
-.
-
-1x: 3(
-
-/
-
-/
-
-Return your adventurer here at the end of your turn.
-
-## Base Camp
-
-## Gain
-
-## Gain
-
-## Gain
-
-## Lay
-
-## Golden Grotto
-
-At the end of your turn, discard down to: 9 total cards ( 9 coins 9 resources
-
-## And
-
-)
-
-## 1St
-
-STORE 2 EGGS HERE:
-
-## Discard Up To From Your
-
-## 2Nd
-
-## 2 Hand. Lay
-
-/
-
-1x: 3(
-
-/
-
-## 3Rd
-
-)
-
-## For Each.
-
-## Gain
-
-## Gain
-
-At any time you may convert:
-
-## Gain
-
-## Lay
-
-## Amethyst Abyss
-
-9/13/23 10:34 AM 9/13/23 10:34 AM
-
-## Cavemat_R11.Indd 1 Cavemat_R11.Indd 1
-
-## Player Mat
-
-HOW TO PLAY: On each turn, take 1 of the following actions: HOW TO PLAY: • Excavate by playing into the left- On each turn, take 1 of the following actions: most empty space in 1 of your 3 caves, providing an immediate benefit and a • Excavate by playing into the left- space to hold a dragon. most empty space in 1 of your 3 caves, providing an immediate benefit and a • Entice a dragon, by playing space to hold a dragon. your hand into the left-most excavated space in 1 cave. • Entice a dragon, by playing from your hand into the left-most excavated • Explore your Crimson Cavern, your Golden space in 1 cave. Grotto, or your Amethyst Abyss. Activate all abilities until you reach • Explore your Crimson Cavern, your Golden Grotto, or your Amethyst Abyss. Activate When paying for the cost of an action, all abilities until you reach place the coin/eggs on the action itself. When paying for the cost of an action, place the coin/eggs on the action itself.
-
-## From
-
-.
-
-.
-
-HOW TO PLAY: On each turn, take 1 of the following actions: HOW TO PLAY: • Excavate by playing into the left- On each turn, take 1 of the following actions: most empty space in 1 of your 3 caves, providing an immediate benefit and a • Excavate by playing into the left- space to hold a dragon. most empty space in 1 of your 3 caves, providing an immediate benefit and a • Entice a dragon, by playing space to hold a dragon. your hand into the left-most excavated space in 1 cave. • Entice a dragon, by playing from your hand into the left-most excavated • Explore your Crimson Cavern, your Golden space in 1 cave. Grotto, or your Amethyst Abyss. Activate all abilities until you reach • Explore your Crimson Cavern, your Golden Grotto, or your Amethyst Abyss. Activate When paying for the cost of an action, all abilities until you reach place the coin/eggs on the action itself. When paying for the cost of an action, place the coin/eggs on the action itself.
-
-## From
-
-.
-
-.
-
-## Scoring Markers On The Dragon Guild
-
-11 per egg* 11 per cached resource* 11 per tucked card*
-
-11 per coin • 11 per 4 / (in any combination) (round down) /
+### PAPER/CARDBOARD (Page 1)
+- 1 Dragon Guild board
+  > Looks like a large puzzle piece.
+- 4 (double-sided) Dragon Guild tiles
+  > Looks like coasters.
+- 183 dragon cards
+  > Looks like playing cards.
+- 75 cave cards
+  > Looks like business cards.
+- 1 card display board
+  > Looks like a small calendar stand.
+- 1 round tracker board
+  > Looks like a small ruler.
+- 10 (double-sided) objective tiles
+  > Looks like small postcards.
+- 5 player mats
+  > Looks like placemats.
+- 10 (double-sided) objective tiles
+  > Looks like small postcards.
+- 1 score pad
+  > Looks like a notepad.
+
+### COINS/TOKENS/EGGS/MARKERS (Page 1)
+- 45 coins (silver)
+  > Looks like small metal buttons.
+- 25 meat tokens (red)
+  > Looks like candy pieces.
+- 25 gold tokens (yellow)
+  > Looks like LEGO bricks.
+- 25 crystal tokens (purple)
+  > Looks like decorative beads.
+- 25 milk tokens (white)
+  > Looks like white bottle caps.
+- 55 eggs
+  > Looks like jelly beans.
+- 20 multiplier tokens (for resources and eggs)
+  > Looks like small poker chips.
+- 1 round marker
+  > Looks like a tiny chess piece.
+- 1 start player marker
+  > Looks like a keychain charm.
+
+### PLAYER PIECES (Page 1)
+- 1 adventurer in each color
+  > Looks like mini action figures.
+- 8 player markers (4 for objective scoring; 4 for the Dragon Guild) in each color
+  > Looks like colored thumbtacks.
+- 1 guild token in each color
+  > Looks like fridge magnets.
 
 NOTE: Your player markers are limited, but all other components are not. If you run out of any non-player-marker pieces during the game, use a suitable replacement.
 
 We're happy to help with missing or broken components. Fill out the form found at stonemaiergames.com/replacement-parts
 
-## Setup Place The Following Items In The Center Of The Table:
-
-1
-
-2
-
-3
-
-DRAGON GUILD BOARD Select 1 of the 4 Dragon Guild tiles at random and place it in the center of the Dragon Guild board with the appropriate side (based on player count) face up.
-
-DRAGONS Shuffle all dragons together and place 3 dragons face up on the card display board in the designated spaces.
-
-CAVE CARDS Shuffle all cave cards together and place 3 cave cards face up on the card display board in the designated spaces. Place the cave card deck nearby (face down).
-
-ROUND TRACKER BOARD Place the round marker on the Round 1 space. Shuffle the objective tiles, then place 4 of them at random on the designated spaces on the round tracker board with a random side facing up. Return the others to the box.
-
-## Card Display Board
-
-## I
-
-Place the dragon deck nearby (face down).
-
-## Ii
-
-4
-
-Place the coins, eggs, and all tokens in a public supply in reach of all players.
-
-EACH PLAYER GAINS:
-
-TIP: We recommend that players first look at their starting cards, then choose which resources to gain from the general supply based on those starting cards. Typically (though not always) players will wish to gain resources that match 1 or more of their starting dragon(s).
-
-## Play Most Empty Space In A Cave.
-
-## From Your Hand Into The Left-
-
-## Cache Up To
-
-## From Your 2 Supply Onto Any Dragon(S).
-
-## 2Nd
-
-/
-
-## 3Rd
-
-1x: 3(
-
-/
-
-)
-
-## Entice
-
-## Cost
-
-## Gain
-
-## Gain
-
-## Lay
-
-## Gain
-
-+ printed on
-
-## Crimson Cavern
-
-## Play Most Excavated Space In A Cave.
-
-## From Your Hand Into The Left-
-
-## Explore
-
-## 1St
-
-COST printed on cave entrance
-
-## Tuck Up To 2 From Your Hand Under Any Dragon(S).
-
-## 2Nd
-
-Choose a cave and move your adventurer from left to right until you reach a
-
-/
-
-.
-
-)
-
-/
-
-## 3Rd
-
-1x: 3(
-
-Return your adventurer here at the end of your turn.
-
-## Gain
-
-## Lay
-
-## Gain
-
-## Gain
-
-## Base Camp
-
-At the end of your turn, discard down to: 9 total cards ( 9 coins 9 resources
-
-## Golden Grotto
-
-## And
-
-)
-
-## 1St
-
-STORE 2 EGGS HERE:
-
-## 2Nd
-
-## Discard Up To From Your
-
-## 2 Hand. Lay
-
-## For Each.
-
-## 3Rd
-
-)
-
-/
-
-/
-
-1x: 3(
-
-At any time you may convert:
-
-## Lay
-
-## Gain
-
-## Gain
-
-## Gain
-
-## Amethyst Abyss
-
-9/13/23 10:34 AM 9/13/23 10:34 AM
-
-## Cavemat_R11.Indd 1 Cavemat_R11.Indd 1
+## Setup (Page 2)
+Place The Following Items In The Center Of The Table:
+1. DRAGON GUILD BOARD Select 1 of the 4 Dragon Guild tiles at random and place it in the center of the Dragon Guild board with the appropriate side (based on player count) face up.
+2. Card Display Board
+     - DRAGONS Shuffle all dragons together and place 3 dragons face up on the card display board in the designated spaces. Place the cave card deck nearby (face down).
+     - CAVE CARDS Shuffle all cave cards together and place 3 cave cards face up on the card display board in the designated spaces. Place the cave card deck nearby (face down).
+3. ROUND TRACKER BOARD Place the round marker on the Round 1 space. Shuffle the objective tiles, then place 4 of them at random on the designated spaces on the round tracker board with a random side facing up. Return the others to the box.
+4. Place the coins, eggs, and all tokens in a public supply in reach of all players.
+
+### EACH PLAYER GAINS: (Page 2)
 
 1 player mat and all player pieces of 1 color (1 adventurer, 8 player markers, and 1 guild token)
+- 6 coins
+- 1 egg
+  > all eggs are used identically. The colors of the eggs are purely aesthetics
+- 3 dragon cards (drawn from the deck) & 3 cave cards (drawn from the deck)
+  > Choose a total of 4 cards (in any combination of dragons and cave cards) to keep as their starting hand either face up or face down. Discard the other 2 cards to create face-up discard piles.
+- 3 resources of their choice
+> Gain the 3 tokens in any combination of gold, crystal, meat, and milk.
+> TIP: We recommend that players first look at their starting cards, then choose which resources to gain from the general supply based on those starting cards. Typically (though not always) players will wish to gain resources that match 1 or more of their starting dragon(s).
 
-## 3 Resources Of Their Choice
-
-3 dragon cards (drawn from the deck) & 3 cave cards (drawn from the deck)
-
-Choose a total of 4 cards (in any combination of dragons and cave cards) to keep as their starting hand either face up or face down. Discard the other 2 cards to create face-up discard piles.
-
-## 1 Egg
-
-## 6 Coins
-
-Gain the 3 tokens in any combination of gold, crystal, meat, and milk.
-
-All eggs are used identically. The colors of the eggs are purely for aesthetics.
-
-## Each Player Then: A
-
-## D E F
-
-Places their player mat in front of them (see the image on the right).
-
-## Places Their Starting Coins To The Left Of Their Mat.
-
-## Places Their Adventurer In Base Camp (On Their Player Mat).
-
-## B
-
-Places their starting resources in their player area (left of their mat).
-
-Places their starting egg on 1 of the 2 nest icons on their player mat. IMPORTANT: Although there are 2 nest icons, players begin the game with only 1 egg.
+## EACH PLAYER THEN: (Page 2)
+A. Places their player mat in front of them (see the image on the right).
+B. Places their starting resources in their player area (left of their mat).
+C. Places their starting egg on 1 of the 2 nest icons on their player mat.
+  IMPORTANT: Although there are 2 nest icons, players begin the game with only 1 egg.
+D. Places Their Starting Coins To The Left Of Their Mat.
+E. Places Their Adventurer In Base Camp (On Their Player Mat).
+F. Places their guild token on the Dragon Guild space labeled "START."
+G. Places their remaining player markers, dragons, and cave cards nearby.Places their guild token on the Dragon Guild space labeled "START.
 
 Randomly give a player the start player marker, then begin the game.
 
-Places their guild token on the Dragon Guild space labeled "START."
-
-## C
-
-## G
-
-Places their remaining player markers, dragons, and cave cards nearby.
-
-4
-
-3
-
-1
-
-## F
-
-2
-
-## I
-
-## Ii
-
-## B
-
-## D
-
-## A
-
-## E
-
-## G
-
-## C
-
-OVERVIEW During a game of Wyrmspan, you will build a sanctuary for dragons. Your sanctuary begins with 3 excavated spaces—the leftmost space in your Crimson Cavern, your Golden Grotto, and your Amethyst Abyss. Throughout the game, you will build out these 3 caves from left to right, first excavating each empty space, then playing dragons into these excavated spaces.
+## OVERVIEW (Page 4)
+During a game of Wyrmspan, you will build a sanctuary for dragons. Your sanctuary begins with 3 excavated spaces—the leftmost space in your Crimson Cavern, your Golden Grotto, and your Amethyst Abyss. Throughout the game, you will build out these 3 caves from left to right, first excavating each empty space, then playing dragons into these excavated spaces.
 
 Each turn, you will take 1 of 5 actions: (1) excavate a space; (2) entice a dragon to come live in an excavated space; (3) explore your Crimson Cavern; (4) explore your Golden Grotto; or (5) explore your Amethyst Abyss.
 
-## Terminology
+### TERMINOLOGY (Page 4)
 
 PLAYER MAT Your personal player mat that holds cave cards, dragons, and eggs.
 
@@ -963,7 +104,8 @@ CAVE A row of spaces on your player mat. Each player mat has 3 caves: the Crimso
 
 DISCARD/PAY Remove the cards, coins, eggs, or resources from your player area, hand, or nests, placing them in the public supply. Cards are always discarded face up.
 
-GAMEPLAY Wyrmspan takes place over 4 rounds. Each round, players take several turns in clockwise order, beginning with the player who has the start player marker.
+## GAMEPLAY (Page 4)
+Wyrmspan takes place over 4 rounds. Each round, players take several turns in clockwise order, beginning with the player who has the start player marker.
 
 Players continue taking turns until they decide to pass; this typically occurs when a player has used all of their coins or they do not have any dragons in their hand that they wish to (or can afford to) play. Once a player has passed, they may not take any additional turns during that round, but they may still gain benefits during other players' turns.
 
@@ -971,161 +113,40 @@ Other players who have not passed continue to take turns until they spend all of
 
 Note that when players pass, they may carry over coins, resources, cave cards, dragons, and nested eggs into the next round.
 
-TIP: It is strongly recommended that players use most (or all) of their coins prior to passing. Players gain an income of 6 coins at the beginning of each round (and in rare circumstances may gain 1 additional coin after they pass for a round). At the end of each player's turn, that player must discard down to 9 coins, 9 cards, and 9 resource tokens.
-
 IMPORTANT: You may never place items on or remove items from other players' player mats; all abilities that you activate allow you to interact only with the general supply, the central boards (Dragon Guild board, card display board, etc.), and your own player mat.
 
 The winner of Wyrmspan is the player with the most victory points (VP). These are earned in a variety of ways, including the VP value of played dragons, eggs, tucked cards, public objectives, and the Dragon Guild (see page 15).
 
-ON YOUR TURN Select one action on your player mat (excavate, entice, or explore), move your adventurer there, pay the cost of that action (place the coin/eggs on the action), and then perform the action. If the public supply of eggs or coins runs low, players may return excess tokens from their mats to the supply; however, players must track the number of times they have explored each cave during the round.
+TIP: It is strongly recommended that players use most (or all) of their coins prior to passing. Players gain an income of 6 coins at the beginning of each round (and in rare circumstances may gain 1 additional coin after they pass for a round). At the end of each player's turn, that player must discard down to 9 coins, 9 cards, and 9 resource tokens.
 
-EXCAVATE PLAY A CAVE CARD INTO 1 OF YOUR CAVES.
+## ON YOUR TURN (Page 5)
+Select one action on your player mat (excavate, entice, or explore), move your adventurer there, pay the cost of that action (place the coin/eggs on the action), and then perform the action. If the public supply of eggs or coins runs low, players may return excess tokens from their mats to the supply; however, players must track the number of times they have explored each cave during the round.
 
-1
+## EXCAVATE (Page 5)
+### PLAY A CAVE CARD INTO 1 OF YOUR CAVES. (Page 5)
 
-Select the left-most empty space in 1 of the 3 caves to excavate. You must excavate each cave from left to right.
+1. Select the left-most empty space in 1 of the 3 caves to excavate. You must excavate each cave from left to right.
+     - The first space in each cave is already excavated, so over the course of the game you may excavate the 2nd, 3rd, and 4th spaces in each cave.
+     - Any cave card can be placed in any cave; the colors of the cave cards are purely for aesthetics.
 
-- The first space in each cave is already excavated, so over the course of the game you may excavate the 2nd, 3rd, and 4th spaces in each cave.
+2. Pay the base cost of 1 coin, placing 1st it on the excavate action on your 2nd player mat. Then, pay 1 egg if you 3rd are excavating the 3rd column or 2 Gain eggs if you are excavating the 4th.
+   - Eggs may be paid from any dragon(s) in your cave or from the 1st nest icons on your player mat.
+> NOTE: Although you may add multiple cave cards to your player mat each round, every time you take the excavate action, you may only excavate 1 space (unless the cave card you play directs otherwise).
 
-- Any cave card can be placed in any cave; the colors of the cave cards are purely for aesthetics.
+3. Play a cave card from your hand onto the empty space you have chosen to excavate.
+   - Place the cave card so that it is Gain aligned with the empty square on your player mat. Leave the stop sign visible (below the cave card).
 
-## Excavate
+> NOTE: If you gain a benefit that allows you to excavate for free, you do not need to pay the coin to excavate or the eggs associated with placing a cave card into that column.
 
-## Cost
-
-+ printed on column
-
-## 1St
-
-## Play Most Empty Space In A Cave.
-
-## From Your Hand Into The Left-
-
-## 2Nd
-
-## Entice
-
-## 3Rd
-
-## Cost
-
-+ printed on
-
-## Gain
-
-## Play Most Excavated Space In A Cave.
-
-## From Your Hand Into The Left-
-
-## Crimson Cavern
-
-2
-
-EXPLORE Pay the base cost of 1 coin, placing 1st it on the excavate action on your 2nd player mat. Then, pay 1 egg if you 3rd are excavating the 3rd column or 2 Gain eggs if you are excavating the 4th.
-
-- Eggs may be paid from any dragon(s) in your cave or from the 1st nest icons on your player mat. 2nd
-
-NOTE: Although you may add multiple cave cards to your player mat each round, every time you take the excavate action, you may only excavate 1 space (unless the cave card you play directs otherwise).
-
-COST printed on cave entrance
-
-Choose a cave and move your adventurer from left to right until you reach a
-
-.
-
-Return your adventurer here at the end of your turn.
-
-## Base Camp
-
-## Golden Grotto
-
-At the end of your turn, discard down to: 9 total cards ( 9 coins 9 resources
-
-## And
-
-)
-
-STORE 2 EGGS HERE:
-
-## 3Rd
-
-At any time you may convert:
-
-## Gain
-
-## Amethyst Abyss
-
-## Cavemat_R11.Indd 1 Cavemat_R11.Indd 1
-
-3
-
-## From The Cache General Supply Onto Any Dragon(S).
-
-## Gain
-
-## Gain
-
-## Wyr_Cavecards_R8.Indd 3 Wyr_Cavecards_R8.Indd 3
-
-8/8/23 10:27 AM 8/8/23 10:27 AM
-
-3
-
-Play a cave card from your hand onto the empty space you have chosen to excavate.
-
-- Place the cave card so that it is Gain aligned with the empty square on your player mat. Leave the stop sign visible (below the cave card).
-
-NOTE: If you gain a benefit that allows you to excavate for free, you do not need to pay the coin to excavate or the eggs associated with placing a cave card into that column.
-
-## Gain
-
-## Gain
-
-## Gain
-
-+
-
-## To Excavate
-
-+
-
-## To Excavate
-
-## Cache Up To
-
-## From Your 2 Supply Onto Any Dragon(S).
-
-1x: 3(
-
-/
-
-)
-
-## Lay
-
-4
-
-## In Either Order:
-
-## Tuck Up To 2 From Your Hand Under Any Dragon(S).
-
+4. In Either Order:
 Activate the "when played" benefit on the cave card you just played.
-
-- These benefits are optional, though are typically to your advantage to take. Note that if you place a cave card that gives opponents something, all other players must be given the option to activate their part of the benefit (even if you decline yours). 9/13/23 10:34 AM 9/13/23 10:34 AM
-
-- The spaces in the 4th column of your player mat allow you to spend 3 items (resources, dragons, and cave cards) in any combination to gain 1 coin. This is optional.
-
-/
-
-1x: 3(
-
-)
-
-/
-
-## Lay
+  - These benefits are optional, though are typically to your advantage to take. Note that if you place a cave card that gives opponents something, all other players must be given the option to activate their part of the benefit (even if you decline yours).
+Activate the "when covered" benefit on the player mat space that you just covered, if applicable.
+  - The spaces in the 4th column of your player mat allow you to spend 3 items (resources, dragons, and cave cards) in any combination to gain 1 coin. This is optional.
 
 TIP: Although gaining an extra coin can be a nice benefit, so is building out the last space in each cave! It is often strategic to excavate this last space before you have enough extra items to make this exchange.
+
+
 
 ENTICE ADD A DRAGON TO YOUR PLAYER MAT.
 
