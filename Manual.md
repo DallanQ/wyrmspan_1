@@ -231,121 +231,15 @@ Anytime you are directed to "pay an egg" you may discard an egg from any dragon 
 
 - Eggs on your dragons and player mat at the end of the game are worth 1 VP each, unless otherwise specified.
 
-## 66 Medium
-
-53
-
-## L
-
-## U
-
-## F
-
-## P
-
-## L
-
-## E
-
-## From Your Supply
-
-## Wyr_Dragoncards_R8.Indd 53 Wyr_Dragoncards_R8.Indd 53
-
-7/27/23 11:28 AM 7/27/23 11:28 AM
-
-## 33 Large
-
-68
-
-## E
-
-## S I V
-
-## S
-
-## E
-
-## R
-
-## G
-
-## G
-
-A from the deck. If it is
-
-Reveal large, tuck it here. Otherwise, discard it and gain
-
-.
-
-7/27/23 11:29 AM 7/27/23 11:29 AM
-
-## Wyr_Dragoncards_R8.Indd 68 Wyr_Dragoncards_R8.Indd 68
-
-## Subterranean Basilisk
-
-## 44 Large
-
-## Y
-
-## H
-
-## S
-
-## Lay Each Opponent Lays
-
-.
-
-.
-
-7/27/23 11:27 AM 7/27/23 11:27 AM
-
-## Wyr_Dragoncards_R8.Indd 37 Wyr_Dragoncards_R8.Indd 37
-
-## Hatchlings
+### HATCHLINGS (Page 9)
 
 Hatchlings are a special type of dragon. All hatchlings require you to pay an egg, and all require you to pay 1, 2, or 3 milk. All Hatchlings have a 3-part ability:
 
-## Miniature Rex
+1. All hatchlings have an "if activated" ability. Each time your adventurer walks onto a hatchling, you may cache 1 resource (milk or meat) onto the hatchling or tuck 1 card under the hatchling, as specified on the card.
 
-## 33 Hatchling
+2. Any time you cache the specified resource on that hatchling or tuck a card under that hatchling, you gain a benefit. Note that you gain this benefit regardless of whether the cache or tuck ability came from walking your adventurer onto that card or from another ability.
 
-1
-
-2
-
-All hatchlings have an "if activated" ability. Each time your adventurer walks onto a hatchling, you may cache 1 resource (milk or meat) onto the hatchling or tuck 1 card under the hatchling, as specified on the card.
-
-Any time you cache the specified resource on that hatchling or tuck a card under that hatchling, you gain a benefit. Note that you gain this benefit regardless of whether the cache or tuck ability came from walking your adventurer onto that card or from another ability.
-
-20
-
-## Y
-
-## A
-
-## L
-
-## P
-
-## Cache
-
-## From Your Supply Here.
-
-## Here, Gain
-
-Any time you cache
-
-## When The 3Rd .
-
-is cached, also gain
-
-## Wyr_Dragoncards_Hatchlings_R4.Indd 20 Wyr_Dragoncards_Hatchlings_R4.Indd 20
-
-3
-
-7/24/23 4:58 PM 7/24/23 4:58 PM
-
-The 3rd time you cache the specified resource on that hatchling or tuck a card under that hatchling, you gain their regular benefit and a bonus that is triggered once per game. This represents the hatchling growing up.
+3. The 3rd time you cache the specified resource on that hatchling or tuck a card under that hatchling, you gain their regular benefit and a bonus that is triggered once per game. This represents the hatchling growing up.
 
 IMPORTANT: You may still continue to activate the hatchling's first 2 abilities (in the example above, caching a meat to gain a gold) even after the bonus is triggered.
 
@@ -353,231 +247,58 @@ IMPORTANT: Note that hatchlings function differently from other "if activated" d
 
 NOTE: As all good dracologists know, most hatchlings are born deep underground and require purple crystals to thrive. As such, keep in mind that most hatchlings live in the Amethyst Abyss. If you're looking for hatchlings that live in the Golden Grotto or Crimson Cavern, you may have a hard time finding one!
 
-EXPLORE EXPLORE YOUR CRIMSON CAVERN: Walk your adventurer through your Crimson Cavern and activate any "if activated" abilities that your adventurer passes, following these steps in order:
+## EXPLORE (Page 10)
+EXPLORE YOUR CRIMSON CAVERN: Walk your adventurer through your Crimson Cavern and activate any "if activated" abilities that your adventurer passes, following these steps in order:
 
-1
-
-Each time you walk through your Crimson Cavern, you must pay the costs printed on your player mat. The 1st time you enter your Crimson Cavern each round, the cost is 1 coin. If you enter a 2nd time that round, the cost is 1 coin and 1 egg. If you enter a 3rd time that round (this is the max, and it's rare), the cost is 1 coin and 2 eggs.
+1. Each time you walk through your Crimson Cavern, you must pay the costs printed on your player mat. The 1st time you enter your Crimson Cavern each round, the cost is 1 coin. If you enter a 2nd time that round, the cost is 1 coin and 1 egg. If you enter a 3rd time that round (this is the max, and it's rare), the cost is 1 coin and 2 eggs.
 
 - If you walk through your Crimson Cavern a 2nd or 3rd time within a round, pay egg(s) from any dragon(s) or nests on your player mat.
 
 - Whenever you enter a cave, leave the paid coin and egg(s) on your player mat (covering the associated cost to track how many times they have explored the cave this round). If the public supply of eggs or coins runs low, players may return excess items to the supply. 3
 
-- Whenever you enter a cave, leave the paid coin and egg(s) on your player mat (covering the associated cost to track how many times they have explored the cave this round). If the public supply of eggs or coins runs low, players may return excess items to the supply. 3
-
-Move your adventurer from left to right within your Crimson Cavern, along the path depicted along the bottom of the cave, and activate all "if activated" ( ) abilities that your adventurer passes, in order from left to right.
+2. Move your adventurer from left to right within your Crimson Cavern, along the path depicted along the bottom of the cave, and activate all "if activated" ( ) abilities that your adventurer passes, in order from left to right.
 
 - Each time you walk past an "if activated" icon on your player mat, you may activate that ability.
 
 - Each time you move your adventurer onto a dragon that has an "if activated" icon, you may activate that ability.
 
-Whenever your adventurer walks onto a dragon), your turn ends. Return your adventurer back to Base Camp.
+3. Whenever your adventurer walks onto a dragon), your turn ends. Return your adventurer back to Base Camp.
 
-## (A Space Without
-
-## Example
+### Example (Page 10)
 
 Tess walks through her Crimson Cavern for the first time this round. She pays 1 coin to do so (placing it onto the designated space at the entrance to her Crimson Cavern) and begins walking her adventurer through the cave from left to right.
-
-+
-
-## To Excavate
-
-+
-
-## To Excavate
-
-## Excavate
-
-## Chameleon Coatl
-
-## Hoarding Flyer
-
-## Cost
-
-+ printed on column
-
-## 1St
-
-## 66 Medium
-
-## 22 Medium
-
-20
-
-## Play Most Empty Space In A Cave.
-
-## From Your Hand Into The Left-
-
-## Entice
-
-## Cost
-
-+ printed on
-
-## Play Most Excavated Space In A Cave.
-
-## From Your Hand Into The Left-
-
-## 2Nd
-
-## 3Rd
-
-## Crimson Cavern
-
-## Gain
-
-119
-
-Gain 22 for each medium dragon on your player mat (max 88 ).
-
-## S I V
-
-## Gain
-
-56
-
-## Gain
-
-## Gain
-
-## Wyr_Cavecards_R8.Indd 20 Wyr_Cavecards_R8.Indd 20
-
-## Gain
-
-## Lay
-
-8/8/23 10:28 AM 8/8/23 10:28 AM
-
-1x: 3(
-
-/
-
-/
-
-)
-
-## Cache Up To
-
-## From Your 2 Supply Onto Any Dragon(S).
-
-She walks over and activates the first 1st "Gain " ability in her 3rd Crimson Cavern and . decides to gain
-
-Next, Tess walks " over the "Gain ability and advances her guild token 1 space forward on Gain the Dragon Guild track (see page 12). She immediately gains the benefit that her guild token lands on.
-
-Tess then walks onto the Chameleon Coatl. Tess takes no action here, because the Chameleon Coatl does not have an Gain "if activated" ( ) GOLDEN GROTTO ability.
-
-After that, Tess walks over the Hoarding Flyer and gains
-
-7/27/23 11:28 AM 7/27/23 11:28 AM
-
-## Wyr_Dragoncards_R8.Indd 56 Wyr_Dragoncards_R8.Indd 56
-
-7/27/23 11:32 AM 7/27/23 11:32 AM
-
-## Wyr_Dragoncards_R8.Indd 119 Wyr_Dragoncards_R8.Indd 119
-
-## Explore
-
-COST printed on cave entrance
-
-## 2Nd
-
-Choose a cave and move your adventurer from left to right until you reach a
-
-.
-
-Return your adventurer here at the end of your turn.
-
-## Gain
-
-## Base Camp
-
-At the end of your turn, discard down to: 9 total cards ( 9 coins 9 resources
-
-## And
-
-)
-
-## 1St
-
-STORE 2 EGGS HERE:
-
-## 2Nd
-
-.
-
-Finally, Tess activates the second "Gain " ability in her Crimson Cavern and selects
-
-.
-
-## Lay
-
-Tess now ends her action, because even though she has excavated the next space in her Crimson Cavern, she has encountered a
-
-1x: 3(
-
-/
-
-/
-
-)
-
-## Tuck Up To 2 From Your Hand Under Any Dragon(S).
-
-and must return
-
-## Her Adventurer To Base Camp.
-
-## Discard Up To From Your
-
-## 2 Hand. Lay
-
-## 3Rd
-
-1x: 3(
-
-/
-
-/
-
-)
-
-## For Each.
-
-At any time you may convert:
+- She walks over and activates the first 1st "Gain " ability in her 3rd Crimson Cavern and . decides to gain
+- Tess then walks onto the Chameleon Coatl. Tess takes no action here, because the Chameleon Coatl does not have an Gain "if activated" ( ) GOLDEN GROTTO ability.
+- Next, Tess walks " over the "Gain ability and advances her guild token 1 space forward on Gain the Dragon Guild track (see page 12). She immediately gains the benefit that her guild token lands on.
+- After that, Tess walks over the Hoarding Flyer and gains
+- Finally, Tess activates the second "Gain " ability in her Crimson Cavern and selects
+
+Tess now ends her action, because even though she has excavated the next space in her Crimson Cavern, she has encountered a ("red negative symbol") and must return her adventurer to Base Camp.
 
 EXPLORE YOUR GOLDEN GROTTO: Identical to "Explore your Crimson Cavern," but for your Golden Grotto. Walk your adventurer through your Golden Grotto and activate any "if activated" abilities that you pass.
 
 EXPLORE YOUR AMETHYST ABYSS: Identical to "Explore your Crimson Cavern," but for your Amethyst Abyss. Walk your adventurer through your Amethyst Abyss and activate any "if activated" abilities that you pass.
 
-## Gain
+## ADDITIONAL RULES, NOTES, AND CONCEPTS (Page 11)
+ABILITY ACTIVATION SEQUENCING: Any time an ability allows all players to do something, the active player goes first, then all other players have the opportunity to follow in clockwise order. Note that dragons and cave cards are not refilled into the card display board until the end of the current turn, after all players have had the opportunity to activate the ability. This means that in some circumstances, if an "all players gain a card" ability is triggered, not all players will have the opportunity to gain a face- up card (though they may still draw from the deck).
 
-## Gain
+ACQUIRING ITEMS: Whenever you acquire a dragon, a cave card, or a resource, by default that item goes into your hand or your personal supply. Some dragons allow you to acquire an item and also provide optional secondary abilities, such as caching a resource or tucking a card. If you decline to do so, that item remains in your hand or your supply.
 
-## Gain
+For example, see the Beckoning Cricketcatcher to the right. At the end of each round, you gain 1 card (from the face-up display or from the deck). After looking at it, decide whether to keep it in your hand or to tuck it under any dragon. If you tuck this card under a hatchling with a "tuck" ability, gain the benefit provided by that hatchling.
 
-## Lay
+ACTIVATING ABILITIES MULTIPLE TIMES: Some abilities allow you to perform an action or exchange up to a certain number of times. Resolve each exchange or action individually. (You may use your benefit from the first exchange to pay for the second exchange, if applicable.)
 
-## Amethyst Abyss
+CAPACITY LIMITS: At the end of each of your turns, you may have a maximum of 9 resource tokens, 9 dragons and/or cave cards (combined), and 9 coins. Discard any excess items until you have 9 of each type. If you gain an item that causes you to go over your capacity limit during another player's turn, you do not need to discard down until the end of your next turn.
 
-Cavemat_r.indd  Cavemat_r.indd 
-
-// : AM // : AM
-
-ADDITIONAL RULES, NOTES, AND CONCEPTS ABILITY ACTIVATION SEQUENCING: Any time an ability allows all players to do something, the active player goes first, then all other players have the opportunity to follow in clockwise order. Note that dragons and cave cards are not refilled into the card display board until the end of the current turn, after all players have had the opportunity to activate the ability. This means that in some circumstances, if an "all players gain a card" ability is triggered, not all players will have the opportunity to gain a face- up card (though they may still draw from the deck).
+CARD REFILL: Do not refill dragons or cave cards into the card display board until the end of each player's turn.
 
 GAINING CARDS: There are 3 different phrases associated with gaining cards, all of which have different meanings.
 
-## Gain A Dragon Or A Cave Card: Unless Additional
-
-restrictions are specified, you may gain a card from either the face-up display or from the top of the deck. Note that there may be times when you have a "gain" ability, but there are no face-up cards in the display. If this happens, you may still draw from the top of the deck.
+GAIN A DRAGON OR A CAVE CARD: Unless Additional restrictions are specified, you may gain a card from either the face-up display or from the top of the deck. Note that there may be times when you have a "gain" ability, but there are no face-up cards in the display. If this happens, you may still draw from the top of the deck.
 
 GAIN A DRAGON OR A CAVE CARD FROM THE DISPLAY: If the "from the display" instruction is included, you must select a face-up card. If there is no card in the display, then you may not take this benefit.
 
-## Draw A Dragon Or A Cave Card: To "Draw" Means You
-
-may only take a card from the top of the relevant deck.
+DRAW A DRAGON OR A CAVE CARD: To "Draw" Means You may only take a card from the top of the relevant deck.
 
 REVEAL A DRAGON CARD: Show the top card of the deck to all players. The ability will specify if you do something with the card; if not, return it to the top of the deck.
 
@@ -589,386 +310,99 @@ RESOURCES: Resources are gold, crystal, meat, and milk. Resources do not include
 
 RESOURCE EXCHANGE: At any point during the game, you may exchange 2 resources (gold, crystal, meat, and milk) in any combination for 1 resource of another type.
 
-ACQUIRING ITEMS: Whenever you acquire a dragon, a cave card, or a resource, by default that item goes into your hand or your personal supply. Some dragons allow you to acquire an item and also provide optional secondary abilities, such as caching a resource or tucking a card. If you decline to do so, that item remains in your hand or your supply.
-
-For example, see the Beckoning Cricketcatcher to the right. At the end of each round, you gain 1 card (from the face-up display or from the deck). After looking at it, decide whether to keep it in your hand or to tuck it under any dragon. If you tuck this card under a hatchling with a "tuck" ability, gain the benefit provided by that hatchling.
-
-180
-
-## Beckoning Cricketcatcher
-
-## 44 Small
-
-## S I V
-
-Gain any dragon.
-
-. You may tuck it under
-
-ACTIVATING ABILITIES MULTIPLE TIMES: Some abilities allow you to perform an action or exchange up to a certain number of times. Resolve each exchange or action individually. (You may use your benefit from the first exchange to pay for the second exchange, if applicable.)
-
-## Wyr_Dragoncards_R8.Indd 180 Wyr_Dragoncards_R8.Indd 180
-
-7/27/23 11:36 AM 7/27/23 11:36 AM
-
-CAPACITY LIMITS: At the end of each of your turns, you may have a maximum of 9 resource tokens, 9 dragons and/or cave cards (combined), and 9 coins. Discard any excess items until you have 9 of each type. If you gain an item that causes you to go over your capacity limit during another player's turn, you do not need to discard down until the end of your next turn.
-
-CARD REFILL: Do not refill dragons or cave cards into the card display board until the end of each player's turn.
-
-## Dragon Guild
-
+## DRAGON GUILD (Page 12)
 Throughout the game, players earn Dragon Guild advancements ( their adventurers through their caves or playing certain dragons or cave cards. Every time a player takes a Dragon Guild advancement, they move their guild token 1 space clockwise around the Dragon Guild track, then immediately gain the benefit printed on the space their token lands on. Each space may hold any number of guild tokens. If a player activates more than 1 advancement in a turn, they receive all benefits that they pass, in addition to those printed on the space that they land on.
-
-) by walking
 
 Every time a player reaches 1 of the 2 brown spaces on the Dragon Guild track (the bottom space or the top space), they must immediately place an unused player marker onto a square on the Dragon Guild tile and collect the corresponding benefits. Each square can hold 1 player marker. Note, however, that the bottom right space of each Dragon Guild tile—a long rectangle—can hold any number of player markers.
 
 Note that each player may place a maximum of 4 player markers onto the Dragon Guild tile. Once a player has placed their 4th player marker onto the Dragon Guild tile, they may continue to advance around the Dragon Guild track, but they cannot place any further player markers there.
 
-## Dragon Guild
-
-## Place Unused Marker Below
-
-## Start
-
 IMPORTANT: If more than 1 player reaches a brown space on the same turn, they select their bonuses in clockwise order, beginning with the active player.
 
-## 4-5 Player
-
-## Guild Of Seafarers
-
-## Excavate 1 Space For Free With From Your Hand.
-
-## Pay For Free.
-
-, then play
-
-## From Your Hand
-
-## Place Dragon Guild Tile Here, With Correct Player Count Face Up.
-
-## Gain
-
-.
-
-END GAME: Gain 33 for every filled column of dragons on your player mat.
-
-## End Game: Gain Printed Vp
-
-66
-
-33
-
-11
-
-## (Unlimited)
-
 NOTE: If space is available, the same player may collect the same bonus more than once.
+>The red squared button indicates where you'll pay for free on the dragon guild.
 
-## Wyr_Guildtiles_R4.Indd 1 Wyr_Guildtiles_R4.Indd 1
+### Select Dragon Guild Powers Explained (Page 13)
 
-## Place Unused Marker Above
+|DRAGON GUILD TILE|ABILITY|RULES|
+|----------------|---------|-------|
+|Guild of Highlands|Pay a coin, then excavate up to 2 spaces for free with cave cards from your hand|Discard 1 coin, then you may excavate up to 2 spaces (in the same cave or different caves) without paying coin or egg costs. If you only have 1 cave card in your hand or you only wish to excavate 1 space, you may choose to forfeit the 2nd excavation.|
+|Guild of Highlands|Pay a cave card, then play a dragon from your hand on top of any other dragon on your player mat for free.|The original dragon on the space becomes tucked, and any tucked cards, cached resources, or eggs associated with the original dragon transfer to the new dragon. The new dragon can only store a number of eggs up to its printed capacity, and any surplus eggs are discarded.|
+|Rainforest Guild|Gain 1 VP for every printed resource cost on all dragons in any one of your caves.|Choose 1 cave (Crimson Cavern, Golden Grotto, or Amethyst Abyss). Count the resource icons (gold, meat, crystal, and milk) printed in the cost section of all dragons in that cave (do not count tucked cards). Gain 1 VP for each icon.|
 
-8/15/23 2:31 PM 8/15/23 2:31 PM
-
-## Wyr_Guildmat_R4.Indd 1 Wyr_Guildmat_R4.Indd 1
-
-7/27/23 1:36 PM 7/27/23 1:36 PM
-
-## Dragon Guild Tile
-
-## Guild Of Highlands
-
-## Guild Of Highlands
-
-## Rainforest Guild
-
-## Select Dragon Guild Powers Explained
-
-## Ability
-
-Pay a coin, then excavate up to 2 spaces for free with cave cards from your hand.
-
-Pay a cave card, then play a dragon from your hand on top of any other dragon on your player mat for free.
-
-Gain 1 VP for every printed resource cost on all dragons in any one of your caves.
-
-## Rules
-
-Discard 1 coin, then you may excavate up to 2 spaces (in the same cave or different caves) without paying coin or egg costs. If you only have 1 cave card in your hand or you only wish to excavate 1 space, you may choose to forfeit the 2nd excavation.
-
-Discard a cave card from your hand, then play a dragon from your hand onto another dragon already in your cave, without paying any costs. You still need to play the dragon into one of its preferred caves.
-
-The original dragon on the space becomes tucked, and any tucked cards, cached resources, or eggs associated with the original dragon transfer to the new dragon. The new dragon can only store a number of eggs up to its printed capacity, and any surplus eggs are discarded.
-
-Choose 1 cave (Crimson Cavern, Golden Grotto, or Amethyst Abyss). Count the resource icons (gold, meat, crystal, and milk) printed in the cost section of all dragons in that cave (do not count tucked cards). Gain 1 VP for each icon.
-
-## Turn End Your Turn Ends After You Have Completed  Action (Excavate, Entice, Or Explore). Then:
-
+## Turn End (Page 14)
+Your Turn Ends After You Have Completed  Action (Excavate, Entice, Or Explore). Then:
 - You must discard down to 9 coins, 9 cards, and 9 resource tokens.
-
 - Play proceeds clockwise to the next player who has not yet passed this round.
 
-## Guarding Horned Drake
-
-## 66 Medium
-
-ROUND END/UPKEEP After all players pass, the round ends. At the end of the round:
-
+## ROUND END/UPKEEP (Page 14)
+After all players pass, the round ends. At the end of the round:
 1. Players discard any coins and eggs that they paid as costs on their player mat.
-
 2. All "once per round" dragon abilities activate.
-
-i. Players activate "once per round" abilities in turn order, starting with that round's start player. If a player has multiple "once per round" dragons on their player mat, they may activate these dragons in any order.
-
-ii. If a "once per round" dragon has an ability that presents all players with a choice or benefit, in clockwise order (starting with the owner of the dragon) each player makes their choice or gains their benefit.
-
+   - Players activate "once per round" abilities in turn order, starting with that round's start player. If a player has multiple "once per round" dragons on their player mat, they may activate these dragons in any order.
+   - If a "once per round" dragon has an ability that presents all players with a choice or benefit, in clockwise order (starting with the owner of the dragon) each player makes their choice or gains their benefit.
 3. The round's objective is scored.
-
-i. Each player places 1 player marker on the round tracker underneath that round's
-
-objective, corresponding to their position relative to other players. Players gain VP for these objectives at the end of the game.
-
-a. If two or more players tie for 1st place, those players place their markers on the
-
-"1st place" space. The next player then places their marker on the "2nd place" space.
-
-b. If a player has no items specified by the objective (has a "zero" for that
-
-objective), then they place their player marker on "all others" (0 VP), regardless of their position relative to other players.
+   - Each player places 1 player marker on the round tracker underneath that round's objective, corresponding to their position relative to other players. Players gain VP for these objectives at the end of the game.
+     - If two or more players tie for 1st place, those players place their markers on the "1st place" space. The next player then places their marker on the "2nd place" space.
+     - If a player has no items specified by the objective (has a "zero" for that objective), then they place their player marker on "all others" (0 VP), regardless of their position relative to other players.
 
 NOTE: Each tile has the Automa solo mode icon those numbers in games with 2+ players.
 
-and some numbers; ignore
-
-63
-
-Tuck you do, lay
-
-## From Your Hand Here. If
-
-## Here.
-
-## Wyr_Dragoncards_R8.Indd 63 Wyr_Dragoncards_R8.Indd 63
-
-7/27/23 11:29 AM 7/27/23 11:29 AM
-
-## R E K C A R T
-
-## D N U O R
-
-1
-
-## Activate
-
-## Then
-
-## Gain
-
-+ 1
-
-2
-
-## Activate
-
-## Then
-
-6
-
-## Gain
-
-+ 1
-
-3
-
-## Activate
-
-## Then
-
-6
-
-## Gain
-
-+ 1
-
-4
-
-## Activate
-
-## Then
-
-## D N E
-
-## E M A G
-
-## Score
-
-## Score
-
-## Score
-
-## Score
-
-## Hatchlings On Your Player Mat
-
-## Large Dragons On Your Player Mat
-
-## On Your Player Mat
-
-## Cached Resources On Your Player Mat
-
-0/0/1/2
-
-0/1/2/3
-
-1/2/5/10
-
-0/1/3/5
-
-44
-
-55
-
-## 1St Place
-
-8/15/23 2:38 PM 8/15/23 2:38 PM
-
-## Wyr_Roundtrackertiles_R4.Indd 20 Wyr_Roundtrackertiles_R4.Indd 20
-
-66
-
-77
-
-11
-
-22
-
-## 2Nd Place
-
-33
-
-44
-
-00
-
-## 3Rd Place
-
-22
-
-33
-
-00
-
-00
-
-## All Others
-
-00
-
-00
-
-## At The Beginning Of The Next Round:
-
+At The Beginning Of The Next Round:
 1. The round marker moves 1 space to the right.
-
-2. Refresh (
-
-) the cards in the display. The 3 face-up dragons and the 3 face-up cave
-
-cards in the display are discarded, and 3 new cards of each type are placed face up in the display.
-
+2. Refresh ("refresh symbol") the cards in the display. The 3 face-up dragons and the 3 face-up cave cards in the display are discarded, and 3 new cards of each type are placed face up in the display.
 3. Each player gains 6 coins and 1 egg.
-
-i. Players add these coins to any coin(s) they carried over from the previous round.
-
-Players may add the egg to any nest icon on their dragons or player mat if possible; if not, they may not gain the egg.
-
+   - Players add these coins to any coin(s) they carried over from the previous round. Players may add the egg to any nest icon on their dragons or player mat if possible; if not, they may not gain the egg.
 4. The start player marker advances 1 player clockwise.
 
-## Game End And Scoring At The End Of The Game, Add Up Your Victory Points From The Following Categories:
-
+## GAME END AND SCORING
+At The End Of The Game, Add Up Your Victory Points From The Following Categories:
 - MARKERS ON THE DRAGON GUILD
-
 - PRINTED VP VALUES on visible dragons on your player mat (not in hand and not tucked)
-
-- END GAME ABILITIES ( not tucked)
-
-## ) On Visible Dragons On Your Player Mat (Not In Hand And
-
-- EGGS: Gain 11 per egg, unless otherwise specified. • CACHED RESOURCES: Gain 11 per cached resource, unless otherwise specified. • TUCKED CARDS: Gain 11 per tucked dragon, unless otherwise specified.
-
-- PUBLIC OBJECTIVES: Ties are friendly. All players whose markers are at a certain level gain the VP printed on that space. For instance, if several players are tied for 1st place for scoring objective 3, those players would gain 66 . The next highest player for that objective would score 33 (for being in 2nd place).
-
+- END GAME ABILITIES ( not tucked) on Visible Dragons On Your Player Mat (Not In Hand And not tucked)
+- EGGS: Gain 1 (victory point) per egg, unless otherwise specified.
+- CACHED RESOURCES: Gain 1 (victory point) per cached resource, unless otherwise specified.
+- TUCKED CARDS: Gain 1 (victory point) per tucked dragon, unless otherwise specified.
+- PUBLIC OBJECTIVES: Ties are friendly. All players whose markers are at a certain level gain the VP printed on that space. For instance, if several players are tied for 1st place for scoring objective 3 (victory point), those players would gain 6 (victory point). The next highest player for that objective would score 3 (for being in 2nd place).
 - EXCESS ITEMS AND COINS:
-
-- Gain 11 per coin you have remaining. • Gain 11 for every 4 other items (in any combination: resources, dragon cards, and cave cards) that you have remaining. Round down.
-
+  - Gain 1 (victory point) per coin you have remaining.
+  - Gain 1 (victory point) for every 4 other items (in any combination: resources, dragon cards, and cave cards) that you have remaining. Round down.
 The player with the most VP wins! If tied, the player with the most visible dragons on their player mat (not including tucked cards) wins. If still tied, the victory is shared.
 
-Special thanks to Elizabeth Hargrave, who was very open to the idea of a dragon- themed Wingspan featuring a number of new mechanisms designed by Connie Vogelmann. Elizabeth was involved as Wyrmspan's developer--someone who helps a game reach its full potential in terms of fun, functional, balanced, and intuitive--during the long design process, during which Connie spent countless hours playtesting, iterating, and creating the vast variety of cards found in this game. We at Stonemaier Games are grateful to work with such amazing, talented people like Elizabeth and Connie in extending the core foundation of Wingspan to dragons…and beyond.
-
-## Icons
-
-## Xx
-
-## Victory Points (Vp)
-
-## If Activated By Adventurer
-
-## Gold
-
-## Meat
-
-## Cave Card
-
-## Dragon Card
-
-## When Played
-
-## Milk
-
-## Egg
-
-## Once Per Round
-
-## Crystal
-
-## Nest Icon (Egg Capacity)
-
-## End Game
-
-## Any Resource
-
-## Dragon Guild
-
-## Coin
-
-## No Resource Cost
-
-## Refresh
-
-WANT TO WATCH A HOW-TO-PLAY VIDEO?
-
-Go to stonemaiergames.com/games/wyrmspan/videos
-
-WANT TO DOWNLOAD THE RULES OR READ THE FAQ?
-
-Go to stonemaiergames.com/games/wyrmspan/rules-faq
-
-HAVE A QUESTION WHILE PLAYING OR A STORY TO SHARE?
-
-Post it on the Wyrmspan Facebook group, on Boardgamegeek, or in the Wyrmspan channel of the Stonemaier Games Discord server: stonemaiergames.com/discord
-
-WANT TO CALCULATE AND SAVE YOUR SCORE?
-
-Use the free Stonemaier Scores app: stonemaiergames.com/digital-games/
-
-NEED A REPLACEMENT PART?
-
-Request it at stonemaiergames.com/replacement-parts
-
-WANT TO STAY IN TOUCH?
-
-Subscribe to monthly updates at stonemaiergames.com/e-newsletter
-
-©  Stonemaier LLC. Wyrmspan is a trademark of Stonemaier LLC. All Rights Reserved.
+## Icons (Page 16)
+- Victory Points (Vp)
+  > Looks like a curly snake
+- If Activated By Adventurer
+  > Looks like a dancing man
+- When Played
+  > Looks like a dark square
+- Once Per Round
+  > Looks like a grenade
+- End Game
+  > Looks like a white and black flag
+- Coin
+  > Looks like small metal buttons.
+- Gold
+  > Looks like LEGO bricks.
+- Meat
+  > Looks like candy pieces.
+- Milk
+  > Looks like a white substance in a bottle
+- Crystal
+  > Looks like a purple stone.
+- Any Resource
+  > Looks like a circle with four different colors
+- No Resource Cost
+  > Looks like no entry symbol
+- Cave Card
+  > Looks like business cards.
+- Dragon Card
+  > Looks like playing cards.
+- Egg
+  > Looks just like an egg
+- Nest Icon (Egg Capacity)
+  > Looks like the head of a snake
+- Dragon Guild
+  > > Looks like coasters.
+- Refresh
+  > Looks like a repeat symbol 
