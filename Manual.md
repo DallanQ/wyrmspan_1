@@ -128,17 +128,23 @@ Select one action on your player mat (excavate, entice, or explore), move your a
 TIP: Although gaining an extra coin can be a nice benefit, so is building out the last space in each cave! It is often strategic to excavate this last space before you have enough extra items to make this exchange.
 
 ## ENTICE (Page 6)
+
 ### ADD A DRAGON TO YOUR PLAYER MAT. (Page 6)
 
 1. Select a dragon from your hand.
 
 2. Pay the base cost of 1 coin, placing it on the entice action on your player mat. Then pay the additional cost printed at the upper-left of the selected dragon (return these to the general supply).
+   
    - This cost is usually a combination of gold, crystal, and meat, but some dragons require an additional coin, an egg, and/or milk.
 
 3. Play the dragon on your player mat, following these rules:
-- You must play the dragon into a 3rd cave that matches 1 of the dragon's Gain preferred habitats (as shown on the left-hand side of the dragon).
-- You must play a dragon into an excavated space on your player 2nd mat. Note that you may not play a 3rd dragon on top of another (unless Gain an ability explicitly directs you to do so).
-- You must play dragons from left to right within each cave.
+
+   - You must play the dragon into a cave that matches 1 of the dragon's preferred habitats (as shown on the left-hand side of the dragon).
+
+   - You must play a dragon into an excavated space on your player mat. Note that you may not play a dragon on top of another (unless an ability explicitly directs you to do so).
+   
+   - You must play dragons from left to right within each cave.
+   
 4. After you play a dragon, gain the "when played" benefit printed on the dragon (if any).
   
 NOTE: Although you may play multiple dragons each round, every time you take the entice action, you may only play 1 dragon (unless the dragon you play directs otherwise).
@@ -146,16 +152,27 @@ NOTE: Although you may play multiple dragons each round, every time you take the
 IMPORTANT: A fully completed player mat can contain at most 12 dragons. Abilities that allow you to replace or cover dragons are rare, so choose wisely!
 
 ### IF YOU ALREADY KNOW WINGSPAN (Page 6)
+
 ...please pay close attention to these key differences in Wyrmspan:
+
 - Actions are performed by spending coins and often eggs (not action cubes)
+
 - Explore your caves from left to right to activate abilities (not right to left)
+
 - There are two nest icons on your cave mat even before you play a dragon
+
 - Start the game with your choice of 4 cards (from 3 dragons and 3 caves) and a choice of any 3 resources
+
 - Gain 6 coins and 1 egg at the beginning of each round (four total rounds)
+
 - A 2-for-1 resource exchange can be used at any time (not just when playing a card)
+
 - You must excavate a cave space before enticing (playing) a dragon to that space; you begin the game with 3 excavated spaces
+
 - Card abilities are optional. If an ability gives an opponent a benefit, they may gain it even if you decline to do so.
+
 - Discard down to 9 cards, 9 coins, and 9 resource tokens at the end of each of your turns
+
 - The end-round goal scoring is friendly. For example, if two people tie for first, they both gain full VP for first place. The next player takes second place.
 
 ## DRAGON ABILITIES (Page 7)
