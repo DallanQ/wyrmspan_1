@@ -318,16 +318,16 @@ For example, see the Beckoning Cricketcatcher to the right. At the end of each r
   - RESOURCE EXCHANGE: At any point during the game, you may exchange 2 resources (gold, crystal, meat, and milk) in any combination for 1 resource of another type.
 
 ## DRAGON GUILD (Page 12)
-Throughout the game, players earn Dragon Guild advancements ( their adventurers through their caves or playing certain dragons or cave cards. Every time a player takes a Dragon Guild advancement, they move their guild token 1 space clockwise around the Dragon Guild track, then immediately gain the benefit printed on the space their token lands on. Each space may hold any number of guild tokens. If a player activates more than 1 advancement in a turn, they receive all benefits that they pass, in addition to those printed on the space that they land on.
 
-Every time a player reaches 1 of the 2 brown spaces on the Dragon Guild track (the bottom space or the top space), they must immediately place an unused player marker onto a square on the Dragon Guild tile and collect the corresponding benefits. Each square can hold 1 player marker. Note, however, that the bottom right space of each Dragon Guild tile—a long rectangle—can hold any number of player markers.
+Throughout the game, players earn Dragon Guild advancements (Dragon Guild icon) by walking their adventurers through their caves or playing certain dragons or cave cards. Every time a player takes a Dragon Guild advancement, they move their guild token 1 space clockwise around the Dragon Guild track, then immediately gain the benefit printed on the space their token lands on. Each space may hold any number of guild tokens. If a player activates more than 1 advancement in a turn, they receive all benefits that they pass, in addition to those printed on the space that they land on.
+
+Every time a player reaches 1 of the 2 brown spaces on the Dragon Guild track (the bottom space or the top space), they must immediately place an unused player marker onto a square on the Dragon Guild tile and collect the corresponding benefits. Each square can hold 1 player marker. Note, however, that the bottom right space of each Dragon Guild tile — a long rectangle — can hold any number of player markers.
 
 Note that each player may place a maximum of 4 player markers onto the Dragon Guild tile. Once a player has placed their 4th player marker onto the Dragon Guild tile, they may continue to advance around the Dragon Guild track, but they cannot place any further player markers there.
 
 IMPORTANT: If more than 1 player reaches a brown space on the same turn, they select their bonuses in clockwise order, beginning with the active player.
 
 NOTE: If space is available, the same player may collect the same bonus more than once.
->The red squared button indicates where you'll pay for free on the dragon guild.
 
 ### Select Dragon Guild Powers Explained (Page 13)
 
