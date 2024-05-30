@@ -1,8 +1,6 @@
 
 NOTE: Your player markers are limited, but all other components are not. If you run out of any non-player-marker pieces during the game, use a suitable replacement.
 
-We're happy to help with missing or broken components. Fill out the form found at stonemaiergames.com/replacement-parts
-
 ## Setup (Page 2)
 
 Place The Following Items In The Center Of The Table:
@@ -57,25 +55,27 @@ Place The Following Items In The Center Of The Table:
 Randomly give a player the start player marker, then begin the game.
 
 ## OVERVIEW (Page 4)
-During a game of Wyrmspan, you will build a sanctuary for dragons. Your sanctuary begins with 3 excavated spaces—the leftmost space in your Crimson Cavern, your Golden Grotto, and your Amethyst Abyss. Throughout the game, you will build out these 3 caves from left to right, first excavating each empty space, then playing dragons into these excavated spaces.
+
+During a game of Wyrmspan, you will build a sanctuary for dragons. Your sanctuary begins with 3 excavated spaces — the leftmost space in your Crimson Cavern, your Golden Grotto, and your Amethyst Abyss. Throughout the game, you will build out these 3 caves from left to right, first excavating each empty space, then playing dragons into these excavated spaces.
 
 Each turn, you will take 1 of 5 actions: (1) excavate a space; (2) entice a dragon to come live in an excavated space; (3) explore your Crimson Cavern; (4) explore your Golden Grotto; or (5) explore your Amethyst Abyss.
 
 ### TERMINOLOGY (Page 4)
 
-PLAYER MAT Your personal player mat that holds cave cards, dragons, and eggs.
+PLAYER MAT: Your personal player mat that holds cave cards, dragons, and eggs.
 
-CAVE CARD Square cards that are added to your player mat through the excavate action. Each cave card that you play covers 1 of the 9 empty spaces on your player mat and turns that space into an excavated space.
+CAVE CARD: Square cards that are added to your player mat through the excavate action. Each cave card that you play covers 1 of the 9 empty spaces on your player mat and turns that space into an excavated space.
 
-DRAGON Rectangular cards that may be placed onto any excavated space, including the 3 spaces that are excavated at the beginning of the game.
+DRAGON: Rectangular cards that may be placed onto any excavated space, including the 3 spaces that are excavated at the beginning of the game.
 
-RESOURCES Meat tokens, gold tokens, crystal tokens, and milk tokens. Coins and eggs are not considered "resources."
+RESOURCES: Meat tokens, gold tokens, crystal tokens, and milk tokens. Coins and eggs are not considered "resources."
 
-CAVE A row of spaces on your player mat. Each player mat has 3 caves: the Crimson Cavern, the Golden Grotto, and the Amethyst Abyss.
+CAVE: A row of spaces on your player mat. Each player mat has 3 caves: the Crimson Cavern, the Golden Grotto, and the Amethyst Abyss.
 
-DISCARD/PAY Remove the cards, coins, eggs, or resources from your player area, hand, or nests, placing them in the public supply. Cards are always discarded face up.
+DISCARD/PAY: Remove the cards, coins, eggs, or resources from your player area, hand, or nests, placing them in the public supply. Cards are always discarded face up.
 
 ## GAMEPLAY (Page 4)
+
 Wyrmspan takes place over 4 rounds. Each round, players take several turns in clockwise order, beginning with the player who has the start player marker.
 
 Players continue taking turns until they decide to pass; this typically occurs when a player has used all of their coins or they do not have any dragons in their hand that they wish to (or can afford to) play. Once a player has passed, they may not take any additional turns during that round, but they may still gain benefits during other players' turns.
@@ -91,16 +91,20 @@ The winner of Wyrmspan is the player with the most victory points (VP). These ar
 TIP: It is strongly recommended that players use most (or all) of their coins prior to passing. Players gain an income of 6 coins at the beginning of each round (and in rare circumstances may gain 1 additional coin after they pass for a round). At the end of each player's turn, that player must discard down to 9 coins, 9 cards, and 9 resource tokens.
 
 ## ON YOUR TURN (Page 5)
+
 Select one action on your player mat (excavate, entice, or explore), move your adventurer there, pay the cost of that action (place the coin/eggs on the action), and then perform the action. If the public supply of eggs or coins runs low, players may return excess tokens from their mats to the supply; however, players must track the number of times they have explored each cave during the round.
 
 ## EXCAVATE (Page 5)
+
 ### PLAY A CAVE CARD INTO 1 OF YOUR CAVES. (Page 5)
 
 1. Select the left-most empty space in 1 of the 3 caves to excavate. You must excavate each cave from left to right.
-     - The first space in each cave is already excavated, so over the course of the game you may excavate the 2nd, 3rd, and 4th spaces in each cave.
-     - Any cave card can be placed in any cave; the colors of the cave cards are purely for aesthetics.
+   
+   - The first space in each cave is already excavated, so over the course of the game you may excavate the 2nd, 3rd, and 4th spaces in each cave.
 
-2. Pay the base cost of 1 coin, placing 1st it on the excavate action on your 2nd player mat. Then, pay 1 egg if you 3rd are excavating the 3rd column or 2 Gain eggs if you are excavating the 4th.
+   - Any cave card can be placed in any cave; the colors of the cave cards are purely for aesthetics.
+
+3. Pay the base cost of 1 coin, placing 1st it on the excavate action on your 2nd player mat. Then, pay 1 egg if you 3rd are excavating the 3rd column or 2 Gain eggs if you are excavating the 4th.
    - Eggs may be paid from any dragon(s) in your cave or from the 1st nest icons on your player mat.
 > NOTE: Although you may add multiple cave cards to your player mat each round, every time you take the excavate action, you may only excavate 1 space (unless the cave card you play directs otherwise).
 
