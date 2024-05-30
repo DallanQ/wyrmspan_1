@@ -104,19 +104,25 @@ Select one action on your player mat (excavate, entice, or explore), move your a
 
    - Any cave card can be placed in any cave; the colors of the cave cards are purely for aesthetics.
 
-3. Pay the base cost of 1 coin, placing 1st it on the excavate action on your 2nd player mat. Then, pay 1 egg if you 3rd are excavating the 3rd column or 2 Gain eggs if you are excavating the 4th.
+2. Pay the base cost of 1 coin, placing it on the excavate action on your player mat. Then, pay 1 egg if you are excavating the 3rd column or 2 eggs if you are excavating the 4th.
+   
    - Eggs may be paid from any dragon(s) in your cave or from the 1st nest icons on your player mat.
-> NOTE: Although you may add multiple cave cards to your player mat each round, every time you take the excavate action, you may only excavate 1 space (unless the cave card you play directs otherwise).
+   
+   NOTE: Although you may add multiple cave cards to your player mat each round, every time you take the excavate action, you may only excavate 1 space (unless the cave card you play directs otherwise).
 
 3. Play a cave card from your hand onto the empty space you have chosen to excavate.
-   - Place the cave card so that it is Gain aligned with the empty square on your player mat. Leave the stop sign visible (below the cave card).
-
-> NOTE: If you gain a benefit that allows you to excavate for free, you do not need to pay the coin to excavate or the eggs associated with placing a cave card into that column.
+   
+   - Place the cave card so that it is aligned with the empty square on your player mat. Leave the stop sign visible (below the cave card).
+   
+   NOTE: If you gain a benefit that allows you to excavate for free, you do not need to pay the coin to excavate or the eggs associated with placing a cave card into that column.
 
 4. In Either Order:
-Activate the "when played" benefit on the cave card you just played.
-  - These benefits are optional, though are typically to your advantage to take. Note that if you place a cave card that gives opponents something, all other players must be given the option to activate their part of the benefit (even if you decline yours).
-Activate the "when covered" benefit on the player mat space that you just covered, if applicable.
+   Activate the "when played" benefit on the cave card you just played.
+
+   - These benefits are optional, though are typically to your advantage to take. Note that if you place a cave card that gives opponents something, all other players must be given the option to activate their part of the benefit (even if you decline yours).
+   
+   Activate the "when covered" benefit on the player mat space that you just covered, if applicable.
+
   - The spaces in the 4th column of your player mat allow you to spend 3 items (resources, dragons, and cave cards) in any combination to gain 1 coin. This is optional.
 
 TIP: Although gaining an extra coin can be a nice benefit, so is building out the last space in each cave! It is often strategic to excavate this last space before you have enough extra items to make this exchange.
