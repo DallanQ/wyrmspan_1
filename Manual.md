@@ -9,7 +9,7 @@ Place the following items in the center of the table:
 
 2. CARD DISPLAY BOARD
 
-   1. DRAGONS: Shuffle all dragons together and place 3 dragons face up on the card display board in the designated spaces. Place the cave card deck nearby (face down).
+   1. DRAGONS: Shuffle all dragons together and place 3 dragons face up on the card display board in the designated spaces. Place the dragon deck nearby (face down).
      
    2. CAVE CARDS Shuffle all cave cards together and place 3 cave cards face up on the card display board in the designated spaces. Place the cave card deck nearby (face down).
 
@@ -339,29 +339,47 @@ NOTE: If space is available, the same player may collect the same bonus more tha
 
 
 ## Turn End (Page 14)
-Your Turn Ends After You Have Completed  Action (Excavate, Entice, Or Explore). Then:
+
+Your turn ends after you have completed action (excavate, entice, or explore). Then:
+
 - You must discard down to 9 coins, 9 cards, and 9 resource tokens.
+
 - Play proceeds clockwise to the next player who has not yet passed this round.
 
 ## ROUND END/UPKEEP (Page 14)
-After all players pass, the round ends. At the end of the round:
-1. Players discard any coins and eggs that they paid as costs on their player mat.
-2. All "once per round" dragon abilities activate.
-   - Players activate "once per round" abilities in turn order, starting with that round's start player. If a player has multiple "once per round" dragons on their player mat, they may activate these dragons in any order.
-   - If a "once per round" dragon has an ability that presents all players with a choice or benefit, in clockwise order (starting with the owner of the dragon) each player makes their choice or gains their benefit.
-3. The round's objective is scored.
-   - Each player places 1 player marker on the round tracker underneath that round's objective, corresponding to their position relative to other players. Players gain VP for these objectives at the end of the game.
-     - If two or more players tie for 1st place, those players place their markers on the "1st place" space. The next player then places their marker on the "2nd place" space.
-     - If a player has no items specified by the objective (has a "zero" for that objective), then they place their player marker on "all others" (0 VP), regardless of their position relative to other players.
 
-NOTE: Each tile has the Automa solo mode icon those numbers in games with 2+ players.
+After all players pass, the round ends. At the end of the round:
+
+1. Players discard any coins and eggs that they paid as costs on their player mat.
+
+2. All "once per round" dragon abilities activate.
+   
+   1. Players activate "once per round" abilities in turn order, starting with that round's start player. If a player has multiple "once per round" dragons on their player mat, they may activate these dragons in any order.
+   
+   2. If a "once per round" dragon has an ability that presents all players with a choice or benefit, in clockwise order (starting with the owner of the dragon) each player makes their choice or gains their benefit.
+
+3. The round's objective is scored.
+
+   1. Each player places 1 player marker on the round tracker underneath that round's objective, corresponding to their position relative to other players. Players gain VP for these objectives at the end of the game.
+
+      1. If two or more players tie for 1st place, those players place their markers on the "1st place" space. The next player then places their marker on the "2nd place" space.
+      
+      2. If a player has no items specified by the objective (has a "zero" for that objective), then they place their player marker on "all others" (0 VP), regardless of their position relative to other players.
+   
+      NOTE: Each tile has the Automa solo mode icon those numbers in games with 2+ players.
 
 At The Beginning Of The Next Round:
+
 1. The round marker moves 1 space to the right.
+
 2. Refresh ("refresh symbol") the cards in the display. The 3 face-up dragons and the 3 face-up cave cards in the display are discarded, and 3 new cards of each type are placed face up in the display.
+
 3. Each player gains 6 coins and 1 egg.
-   - Players add these coins to any coin(s) they carried over from the previous round. Players may add the egg to any nest icon on their dragons or player mat if possible; if not, they may not gain the egg.
-4. The start player marker advances 1 player clockwise.
+   
+   1. Players add these coins to any coin(s) they carried over from the previous round
+      Players may add the egg to any nest icon on their dragons or player mat if possible; if not, they may not gain the egg.
+
+5. The start player marker advances 1 player clockwise.
 
 ## GAME END AND SCORING
 At The End Of The Game, Add Up Your Victory Points From The Following Categories:
