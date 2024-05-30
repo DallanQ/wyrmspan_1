@@ -3,7 +3,7 @@ NOTE: Your player markers are limited, but all other components are not. If you 
 
 ## Setup (Page 2)
 
-Place The Following Items In The Center Of The Table:
+Place the following items in the center of the table:
 
 1. DRAGON GUILD BOARD: Select 1 of the 4 Dragon Guild tiles at random and place it in the center of the Dragon Guild board with the appropriate side (based on player count) face up.
 
@@ -334,8 +334,9 @@ NOTE: If space is available, the same player may collect the same bonus more tha
 |DRAGON GUILD TILE|ABILITY|RULES|
 |----------------|---------|-------|
 |Guild of Highlands|Pay a coin, then excavate up to 2 spaces for free with cave cards from your hand|Discard 1 coin, then you may excavate up to 2 spaces (in the same cave or different caves) without paying coin or egg costs. If you only have 1 cave card in your hand or you only wish to excavate 1 space, you may choose to forfeit the 2nd excavation.|
-|Guild of Highlands|Pay a cave card, then play a dragon from your hand on top of any other dragon on your player mat for free.|The original dragon on the space becomes tucked, and any tucked cards, cached resources, or eggs associated with the original dragon transfer to the new dragon. The new dragon can only store a number of eggs up to its printed capacity, and any surplus eggs are discarded.|
+|Guild of Highlands|Pay a cave card, then play a dragon from your hand on top of any other dragon on your player mat for free.|Discard a cave card from your hand, then play a dragon from your hand onto another dragon already in your cave, without paying any costs. You still need to play the dragon into one of its preferred caves. The original dragon on the space becomes tucked, and any tucked cards, cached resources, or eggs associated with the original dragon transfer to the new dragon. The new dragon can only store a number of eggs up to its printed capacity, and any surplus eggs are discarded.|
 |Rainforest Guild|Gain 1 VP for every printed resource cost on all dragons in any one of your caves.|Choose 1 cave (Crimson Cavern, Golden Grotto, or Amethyst Abyss). Count the resource icons (gold, meat, crystal, and milk) printed in the cost section of all dragons in that cave (do not count tucked cards). Gain 1 VP for each icon.|
+
 
 ## Turn End (Page 14)
 Your Turn Ends After You Have Completed  Action (Excavate, Entice, Or Explore). Then:
