@@ -305,7 +305,7 @@ For example, see the Beckoning Cricketcatcher to the right. At the end of each r
 
 - GAINING CARDS: There are 3 different phrases associated with gaining cards, all of which have different meanings.
 
-  - GAIN A DRAGON OR A CAVE CARD: Unless Additional restrictions are specified, you may gain a card from either the face-up display or from the top of the deck. Note that there may be times when you have a "gain" ability, but there are no face-up cards in the display. If this happens, you may still draw from the top of the deck.
+  - GAIN A DRAGON OR A CAVE CARD: Unless additional restrictions are specified, you may gain a card from either the face-up display or from the top of the deck. Note that there may be times when you have a "gain" ability, but there are no face-up cards in the display. If this happens, you may still draw from the top of the deck.
 
   - GAIN A DRAGON OR A CAVE CARD FROM THE DISPLAY: If the "from the display" instruction is included, you must select a face-up card. If there is no card in the display, then you may not take this benefit.
 
