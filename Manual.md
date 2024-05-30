@@ -382,17 +382,30 @@ At The Beginning Of The Next Round:
 5. The start player marker advances 1 player clockwise.
 
 ## GAME END AND SCORING
-At The End Of The Game, Add Up Your Victory Points From The Following Categories:
+
+At the end of the game, add up your victory points from the following categories:
+
 - MARKERS ON THE DRAGON GUILD
+
 - PRINTED VP VALUES on visible dragons on your player mat (not in hand and not tucked)
-- END GAME ABILITIES ( not tucked) on Visible Dragons On Your Player Mat (Not In Hand And not tucked)
-- EGGS: Gain 1 (victory point) per egg, unless otherwise specified.
-- CACHED RESOURCES: Gain 1 (victory point) per cached resource, unless otherwise specified.
-- TUCKED CARDS: Gain 1 (victory point) per tucked dragon, unless otherwise specified.
-- PUBLIC OBJECTIVES: Ties are friendly. All players whose markers are at a certain level gain the VP printed on that space. For instance, if several players are tied for 1st place for scoring objective 3 (victory point), those players would gain 6 (victory point). The next highest player for that objective would score 3 (for being in 2nd place).
+
+- END GAME ABILITIES (End Game icon) on visible dragons on your player mat (not in hand and 
+not tucked)
+
+- EGGS: Gain 1 victory point per egg, unless otherwise specified.
+
+- CACHED RESOURCES: Gain 1 victory point per cached resource, unless otherwise specified.
+
+- TUCKED CARDS: Gain 1 victory point per tucked dragon, unless otherwise specified.
+
+- PUBLIC OBJECTIVES: Ties are friendly. All players whose markers are at a certain level gain the VP printed on that space. For instance, if several players are tied for 1st place for scoring objective 3, those players would gain 6 victory points. The next highest player for that objective would score 3 victory points (for being in 2nd place).
+
 - EXCESS ITEMS AND COINS:
-  - Gain 1 (victory point) per coin you have remaining.
-  - Gain 1 (victory point) for every 4 other items (in any combination: resources, dragon cards, and cave cards) that you have remaining. Round down.
+
+  - Gain 1 victory point per coin you have remaining.
+
+  - Gain 1 victory point for every 4 other items (in any combination: resources, dragon cards, and cave cards) that you have remaining. Round down.
+
 The player with the most VP wins! If tied, the player with the most visible dragons on their player mat (not including tucked cards) wins. If still tied, the victory is shared.
 
 ## Icons (Page 16)
