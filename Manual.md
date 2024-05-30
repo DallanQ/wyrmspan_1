@@ -277,7 +277,7 @@ She walks over and activates the first "Gain Any Resource" ability in her Crimso
 
 Tess then walks onto the Chameleon Coatl. Tess takes no action here, because the Chameleon Coatl does not have an "if activated" ability.
 
-Next, Tess walks " over the "Gain Dragon Guild" ability and advances her guild token 1 space forward on Gain the Dragon Guild track (see page 12). She immediately gains the benefit that her guild token lands on.
+Next, Tess walks " over the "Gain Dragon Guild" ability and advances her guild token 1 space forward on the Dragon Guild track (see page 12). She immediately gains the benefit that her guild token lands on.
 
 After that, Tess walks over the Hoarding Flyer and gains gold.
 
@@ -344,7 +344,7 @@ NOTE: If space is available, the same player may collect the same bonus more tha
 
 ## Turn End (Page 14)
 
-Your turn ends after you have completed action (excavate, entice, or explore). Then:
+Your turn ends after you have completed 1 action (excavate, entice, or explore). Then:
 
 - You must discard down to 9 coins, 9 cards, and 9 resource tokens.
 
