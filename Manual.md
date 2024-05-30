@@ -219,14 +219,15 @@ TUCKING A CARD means you place a face-down dragon card underneath an already pla
 
 IMPORTANT: Tucked cards do not count as dragons for purposes of end game abilities or end-of-round goals that require you to have a specific number or type of dragons on your player mat. For instance, if you have a dragon that gives you VP for every medium dragon you have on your player mat, tucked medium dragons do not count.
 
-### LAY AN EGG OR PAY AN EGG: (Page 8)
+LAY AN EGG OR PAY AN EGG:
 
 An ability that lets you "lay an egg" allows you to place an egg onto any dragon with an empty nest icon or onto 1 of the 2 nest icons printed on your player mat. Each nest icon, regardless of its location, can hold 1 egg. If you do not have an empty nest icon available, then you may not lay an egg.
 
-- Note that some dragons direct you to lay an egg "here." This allows you to lay an egg only on that dragon. Other dragons direct you to lay an egg anywhere in a certain cave or a certain column.
+> Note that some dragons direct you to lay an egg "here." This allows you to lay an egg only on that dragon. Other dragons direct you to lay an egg anywhere in a certain cave or a certain column.
 
 Anytime you are directed to "pay an egg" you may discard an egg from any dragon on your player mat or from a nest on your player mat.
-  - Note that some dragons require you to pay an egg from a specific location (e.g. "Pay an egg from anywhere in this cave").
+
+> Note that some dragons require you to pay an egg from a specific location (e.g. "Pay an egg from anywhere in this cave").
 
 - Eggs on your dragons and player mat at the end of the game are worth 1 VP each, unless otherwise specified.
 
