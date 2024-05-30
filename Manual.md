@@ -117,6 +117,7 @@ Select one action on your player mat (excavate, entice, or explore), move your a
    NOTE: If you gain a benefit that allows you to excavate for free, you do not need to pay the coin to excavate or the eggs associated with placing a cave card into that column.
 
 4. In Either Order:
+   
    Activate the "when played" benefit on the cave card you just played.
 
    - These benefits are optional, though are typically to your advantage to take. Note that if you place a cave card that gives opponents something, all other players must be given the option to activate their part of the benefit (even if you decline yours).
@@ -194,7 +195,7 @@ Whenever your adventurer walks onto a dragon card with an "if activated" ability
 To play this dragon, pay 1 meat and 1 gold. (If you used the entice action to play this dragon, you also must pay 1 coin.)
 > In the example dragon card, the meat and gold icons appear in the top left of the card, just right under the name.
 
-Caves where this dragon can live are indicated on the left side of the dragon card. This dragon can live in the Crimson Cavern or the Golden Grotto.
+Caves where this dragon can live are indicated on the left side of the dragon card.
 
 Each dragon provides an ability or benefit. This dragon provides a "once per round" ability.
 > The example dragon card features a description at the bottom, accompanied by the 'once per round' icon.
@@ -274,7 +275,7 @@ Tess walks through her Crimson Cavern for the first time this round. She pays 1 
 
 She walks over and activates the first "Gain Any Resource" ability in her Crimson Cavern and decides to gain meat.
 
-Tess then walks onto the Chameleon Coatl. Tess takes no action here, because the Chameleon Coatl does not have an Gain "if activated" ability.
+Tess then walks onto the Chameleon Coatl. Tess takes no action here, because the Chameleon Coatl does not have an "if activated" ability.
 
 Next, Tess walks " over the "Gain Dragon Guild" ability and advances her guild token 1 space forward on Gain the Dragon Guild track (see page 12). She immediately gains the benefit that her guild token lands on.
 
