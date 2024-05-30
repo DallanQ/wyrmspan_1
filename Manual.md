@@ -286,35 +286,36 @@ EXPLORE YOUR GOLDEN GROTTO: Identical to "Explore your Crimson Cavern," but for 
 EXPLORE YOUR AMETHYST ABYSS: Identical to "Explore your Crimson Cavern," but for your Amethyst Abyss. Walk your adventurer through your Amethyst Abyss and activate any "if activated" abilities that you pass.
 
 ## ADDITIONAL RULES, NOTES, AND CONCEPTS (Page 11)
-ABILITY ACTIVATION SEQUENCING: Any time an ability allows all players to do something, the active player goes first, then all other players have the opportunity to follow in clockwise order. Note that dragons and cave cards are not refilled into the card display board until the end of the current turn, after all players have had the opportunity to activate the ability. This means that in some circumstances, if an "all players gain a card" ability is triggered, not all players will have the opportunity to gain a face- up card (though they may still draw from the deck).
 
-ACQUIRING ITEMS: Whenever you acquire a dragon, a cave card, or a resource, by default that item goes into your hand or your personal supply. Some dragons allow you to acquire an item and also provide optional secondary abilities, such as caching a resource or tucking a card. If you decline to do so, that item remains in your hand or your supply.
+- ABILITY ACTIVATION SEQUENCING: Any time an ability allows all players to do something, the active player goes first, then all other players have the opportunity to follow in clockwise order. Note that dragons and cave cards are not refilled into the card display board until the end of the current turn, after all players have had the opportunity to activate the ability. This means that in some circumstances, if an "all players gain a card" ability is triggered, not all players will have the opportunity to gain a face-up card (though they may still draw from the deck).
+
+- ACQUIRING ITEMS: Whenever you acquire a dragon, a cave card, or a resource, by default that item goes into your hand or your personal supply. Some dragons allow you to acquire an item and also provide optional secondary abilities, such as caching a resource or tucking a card. If you decline to do so, that item remains in your hand or your supply.
 
 For example, see the Beckoning Cricketcatcher to the right. At the end of each round, you gain 1 card (from the face-up display or from the deck). After looking at it, decide whether to keep it in your hand or to tuck it under any dragon. If you tuck this card under a hatchling with a "tuck" ability, gain the benefit provided by that hatchling.
 
-ACTIVATING ABILITIES MULTIPLE TIMES: Some abilities allow you to perform an action or exchange up to a certain number of times. Resolve each exchange or action individually. (You may use your benefit from the first exchange to pay for the second exchange, if applicable.)
+- ACTIVATING ABILITIES MULTIPLE TIMES: Some abilities allow you to perform an action or exchange up to a certain number of times. Resolve each exchange or action individually. (You may use your benefit from the first exchange to pay for the second exchange, if applicable.)
 
-CAPACITY LIMITS: At the end of each of your turns, you may have a maximum of 9 resource tokens, 9 dragons and/or cave cards (combined), and 9 coins. Discard any excess items until you have 9 of each type. If you gain an item that causes you to go over your capacity limit during another player's turn, you do not need to discard down until the end of your next turn.
+- CAPACITY LIMITS: At the end of each of your turns, you may have a maximum of 9 resource tokens, 9 dragons and/or cave cards (combined), and 9 coins. Discard any excess items until you have 9 of each type. If you gain an item that causes you to go over your capacity limit during another player's turn, you do not need to discard down until the end of your next turn.
 
-CARD REFILL: Do not refill dragons or cave cards into the card display board until the end of each player's turn.
+- CARD REFILL: Do not refill dragons or cave cards into the card display board until the end of each player's turn.
 
-GAINING CARDS: There are 3 different phrases associated with gaining cards, all of which have different meanings.
+- GAINING CARDS: There are 3 different phrases associated with gaining cards, all of which have different meanings.
 
-GAIN A DRAGON OR A CAVE CARD: Unless Additional restrictions are specified, you may gain a card from either the face-up display or from the top of the deck. Note that there may be times when you have a "gain" ability, but there are no face-up cards in the display. If this happens, you may still draw from the top of the deck.
+  - GAIN A DRAGON OR A CAVE CARD: Unless Additional restrictions are specified, you may gain a card from either the face-up display or from the top of the deck. Note that there may be times when you have a "gain" ability, but there are no face-up cards in the display. If this happens, you may still draw from the top of the deck.
 
-GAIN A DRAGON OR A CAVE CARD FROM THE DISPLAY: If the "from the display" instruction is included, you must select a face-up card. If there is no card in the display, then you may not take this benefit.
+  - GAIN A DRAGON OR A CAVE CARD FROM THE DISPLAY: If the "from the display" instruction is included, you must select a face-up card. If there is no card in the display, then you may not take this benefit.
 
-DRAW A DRAGON OR A CAVE CARD: To "Draw" Means You may only take a card from the top of the relevant deck.
+  - DRAW A DRAGON OR A CAVE CARD: To "Draw" Means You may only take a card from the top of the relevant deck.
 
-REVEAL A DRAGON CARD: Show the top card of the deck to all players. The ability will specify if you do something with the card; if not, return it to the top of the deck.
+  - REVEAL A DRAGON CARD: Show the top card of the deck to all players. The ability will specify if you do something with the card; if not, return it to the top of the deck.
 
-ON YOUR PLAYER MAT OR IN A CAVE: Abilities that refer to the number of dragons on your player mat or in a cave never count tucked cards. Hatchlings are dragons.
+- ON YOUR PLAYER MAT OR IN A CAVE: Abilities that refer to the number of dragons on your player mat or in a cave never count tucked cards. Hatchlings are dragons.
 
-PAYING AN ITEM: Certain abilities direct you to pay an item to trigger an ability. This requires you to discard that item from your hand (cave card or dragon), from your supply (resources or coins), or from any nest icon (egg) on your player mat, unless explicitly specified otherwise.
+- PAYING AN ITEM: Certain abilities direct you to pay an item to trigger an ability. This requires you to discard that item from your hand (cave card or dragon), from your supply (resources or coins), or from any nest icon (egg) on your player mat, unless explicitly specified otherwise.
 
-RESOURCES: Resources are gold, crystal, meat, and milk. Resources do not include coins or eggs.
+- RESOURCES: Resources are gold, crystal, meat, and milk. Resources do not include coins or eggs.
 
-RESOURCE EXCHANGE: At any point during the game, you may exchange 2 resources (gold, crystal, meat, and milk) in any combination for 1 resource of another type.
+  - RESOURCE EXCHANGE: At any point during the game, you may exchange 2 resources (gold, crystal, meat, and milk) in any combination for 1 resource of another type.
 
 ## DRAGON GUILD (Page 12)
 Throughout the game, players earn Dragon Guild advancements ( their adventurers through their caves or playing certain dragons or cave cards. Every time a player takes a Dragon Guild advancement, they move their guild token 1 space clockwise around the Dragon Guild track, then immediately gain the benefit printed on the space their token lands on. Each space may hold any number of guild tokens. If a player activates more than 1 advancement in a turn, they receive all benefits that they pass, in addition to those printed on the space that they land on.
