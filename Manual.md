@@ -176,7 +176,8 @@ IMPORTANT: A fully completed player mat can contain at most 12 dragons. Abilitie
 - The end-round goal scoring is friendly. For example, if two people tie for first, they both gain full VP for first place. The next player takes second place.
 
 ## DRAGON ABILITIES (Page 7)
-All Dragons Have An Ability Or Benefit Printed On Them. These Come In  Types:
+
+All dragons have an ability or benefit printed on them. These come in 4 types:
 
 When you play a dragon with a "when played" benefit, you may gain the indicated benefit immediately. Unless you have a special ability, you will only activate this ability once. These benefits are not mandatory, though it is usually in your best interest to gain them. If you play a dragon that gives opponents a benefit, the other players must be allowed to collect their benefit, even if you decline yours.
 
@@ -188,7 +189,7 @@ Whenever your adventurer walks onto a dragon card with an "if activated" ability
 
 "End game" abilities provide Victory Points (VP) at the end of the game for meeting certain conditions.
 
-### Example Dragon Card (Page 7)
+### Example Dragon Card (Page 7) 
 
 To play this dragon, pay 1 meat and 1 gold. (If you used the entice action to play this dragon, you also must pay 1 coin.)
 
@@ -198,7 +199,7 @@ Each dragon provides an ability or benefit. This dragon provides a "once per rou
 
 Earn 5 VP for playing this dragon.
 
-Dragons Come In 4 Sizes—Large, Medium, Small, And Hatchling.
+Dragons come in 4 sizes — Large, Medium, Small, And Hatchling.
 
 Egg storage capacity. Dragons can store 1 egg on each nest icon they have (e.g., this dragon has 1 nest icon).
 
