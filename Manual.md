@@ -192,16 +192,19 @@ Whenever your adventurer walks onto a dragon card with an "if activated" ability
 ### Example Dragon Card (Page 7) 
 
 To play this dragon, pay 1 meat and 1 gold. (If you used the entice action to play this dragon, you also must pay 1 coin.)
+> In the example dragon card, the meat and gold icons appear in the top left of the card, just right under the name.
 
 Caves where this dragon can live are indicated on the left side of the dragon card. This dragon can live in the Crimson Cavern or the Golden Grotto.
 
-Each dragon provides an ability or benefit. This dragon provides a "once per round" ability (described above).
+Each dragon provides an ability or benefit. This dragon provides a "once per round" ability.
+> The example dragon card features a description at the bottom, accompanied by the 'once per round' icon.
 
 Earn 5 VP for playing this dragon.
+> 5 VP appears in the top right of the example dragon card.
 
 Dragons come in 4 sizes — Large, Medium, Small, And Hatchling.
 
-Egg storage capacity. Dragons can store 1 egg on each nest icon they have (e.g., this dragon has 1 nest icon).
+Egg storage capacity. Dragons can store 1 egg on each nest icon they have.
 
 Dragons have 1 of 4 traits: shy, aggressive, playful, or helpful.
 
