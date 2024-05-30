@@ -44,13 +44,13 @@ Place the following items in the center of the table:
 
    IMPORTANT: Although there are 2 nest icons, players begin the game with only 1 egg.
 
-4. Places Their Starting Coins To The Left Of Their Mat.
+4. Places their starting coins to the left of their mat.
 
-5. Places Their Adventurer In Base Camp (On Their Player Mat).
+5. Places their adventurer in base camp (on their player mat).
 
 6. Places their guild token on the Dragon Guild space labeled "START."
 
-7. Places their remaining player markers, dragons, and cave cards nearby.Places their guild token on the Dragon Guild space labeled "START.
+7. Places their remaining player markers, dragons, and cave cards nearby.
 
 Randomly give a player the start player marker, then begin the game.
 
@@ -106,7 +106,7 @@ Select one action on your player mat (excavate, entice, or explore), move your a
 
 2. Pay the base cost of 1 coin, placing it on the excavate action on your player mat. Then, pay 1 egg if you are excavating the 3rd column or 2 eggs if you are excavating the 4th.
    
-   - Eggs may be paid from any dragon(s) in your cave or from the 1st nest icons on your player mat.
+   - Eggs may be paid from any dragon(s) in your cave or from the nest icons on your player mat.
    
    NOTE: Although you may add multiple cave cards to your player mat each round, every time you take the excavate action, you may only excavate 1 space (unless the cave card you play directs otherwise).
 
@@ -409,39 +409,57 @@ not tucked)
 The player with the most VP wins! If tied, the player with the most visible dragons on their player mat (not including tucked cards) wins. If still tied, the victory is shared.
 
 ## Icons (Page 16)
-- Victory Points (Vp)
-  > Looks like a curly snake
+
+- Victory Points (VP)
+  > The icon contains a specific number encircled by a dragon.
+
 - If Activated By Adventurer
-  > Looks like a dancing man
+  > The icon appears as a man raising a hand.
+
 - When Played
-  > Looks like a dark square
+  > The icon looks like a dark square.
+
 - Once Per Round
-  > Looks like a grenade
+  > The icon looks like a black and white alarm clock.
+
 - End Game
-  > Looks like a white and black flag
+  > The icon looks like a white and black flag.
+
 - Coin
-  > Looks like small metal buttons.
+  > The icon looks like a grey small metal button.
+
 - Gold
-  > Looks like LEGO bricks.
+  > The icon is a gold.
+
 - Meat
-  > Looks like candy pieces.
+  > The icon is a piece of meat.
+
 - Milk
-  > Looks like a white substance in a bottle
+  > The icon is a bottle of milk.
+
 - Crystal
-  > Looks like a purple stone.
+  > The icon appears as a purple crystal.
+
 - Any Resource
-  > Looks like a circle with four different colors
+  > The icon appears as a colorful circle.
+
 - No Resource Cost
-  > Looks like no entry symbol
+  > The icon appears as a classic grey no-entry symbol
+
 - Cave Card
-  > Looks like business cards.
+  > The icon looks like a purple card containing white crytal.
+
 - Dragon Card
-  > Looks like playing cards.
+  > The icon looks like a blue card with a white dragon.
+
 - Egg
-  > Looks just like an egg
+  > The icon appears as a white egg with black dots.
+
 - Nest Icon (Egg Capacity)
-  > Looks like the head of a snake
+  > The icon appears as a grey egg with white dots.
+
 - Dragon Guild
-  > > Looks like coasters.
+  > The icon appears as a white head dragon in a brown shield.
+
 - Refresh
-  > Looks like a repeat symbol 
+  > The icon appears as a refresh symbol.
