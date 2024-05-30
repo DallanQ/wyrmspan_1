@@ -4,35 +4,55 @@ NOTE: Your player markers are limited, but all other components are not. If you 
 We're happy to help with missing or broken components. Fill out the form found at stonemaiergames.com/replacement-parts
 
 ## Setup (Page 2)
+
 Place The Following Items In The Center Of The Table:
-1. DRAGON GUILD BOARD Select 1 of the 4 Dragon Guild tiles at random and place it in the center of the Dragon Guild board with the appropriate side (based on player count) face up.
-2. Card Display Board
-     - DRAGONS Shuffle all dragons together and place 3 dragons face up on the card display board in the designated spaces. Place the cave card deck nearby (face down).
-     - CAVE CARDS Shuffle all cave cards together and place 3 cave cards face up on the card display board in the designated spaces. Place the cave card deck nearby (face down).
-3. ROUND TRACKER BOARD Place the round marker on the Round 1 space. Shuffle the objective tiles, then place 4 of them at random on the designated spaces on the round tracker board with a random side facing up. Return the others to the box.
+
+1. DRAGON GUILD BOARD: Select 1 of the 4 Dragon Guild tiles at random and place it in the center of the Dragon Guild board with the appropriate side (based on player count) face up.
+
+2. CARD DISPLAY BOARD
+
+   1. DRAGONS: Shuffle all dragons together and place 3 dragons face up on the card display board in the designated spaces. Place the cave card deck nearby (face down).
+     
+   2. CAVE CARDS Shuffle all cave cards together and place 3 cave cards face up on the card display board in the designated spaces. Place the cave card deck nearby (face down).
+
+3. ROUND TRACKER BOARD: Place the round marker on the Round 1 space. Shuffle the objective tiles, then place 4 of them at random on the designated spaces on the round tracker board with a random side facing up. Return the others to the box.
+
 4. Place the coins, eggs, and all tokens in a public supply in reach of all players.
 
 ### EACH PLAYER GAINS: (Page 2)
 
-1 player mat and all player pieces of 1 color (1 adventurer, 8 player markers, and 1 guild token)
+- 1 player mat and all player pieces of 1 color (1 adventurer, 8 player markers, and 1 guild token)
+
 - 6 coins
+
 - 1 egg
-  > all eggs are used identically. The colors of the eggs are purely aesthetics
+  > All eggs are used identically. The colors of the eggs are purely aesthetics
+
 - 3 dragon cards (drawn from the deck) & 3 cave cards (drawn from the deck)
   > Choose a total of 4 cards (in any combination of dragons and cave cards) to keep as their starting hand either face up or face down. Discard the other 2 cards to create face-up discard piles.
+
 - 3 resources of their choice
-> Gain the 3 tokens in any combination of gold, crystal, meat, and milk.
+  > Gain the 3 tokens in any combination of gold, crystal, meat, and milk.
+
 > TIP: We recommend that players first look at their starting cards, then choose which resources to gain from the general supply based on those starting cards. Typically (though not always) players will wish to gain resources that match 1 or more of their starting dragon(s).
 
-## EACH PLAYER THEN: (Page 2)
-A. Places their player mat in front of them (see the image on the right).
-B. Places their starting resources in their player area (left of their mat).
-C. Places their starting egg on 1 of the 2 nest icons on their player mat.
-  IMPORTANT: Although there are 2 nest icons, players begin the game with only 1 egg.
-D. Places Their Starting Coins To The Left Of Their Mat.
-E. Places Their Adventurer In Base Camp (On Their Player Mat).
-F. Places their guild token on the Dragon Guild space labeled "START."
-G. Places their remaining player markers, dragons, and cave cards nearby.Places their guild token on the Dragon Guild space labeled "START.
+### EACH PLAYER THEN: (Page 2)
+
+1. Places their player mat in front of them.
+
+2. Places their starting resources in their player area (left of their mat).
+
+3. Places their starting egg on 1 of the 2 nest icons on their player mat.
+
+   IMPORTANT: Although there are 2 nest icons, players begin the game with only 1 egg.
+
+4. Places Their Starting Coins To The Left Of Their Mat.
+
+5. Places Their Adventurer In Base Camp (On Their Player Mat).
+
+6. Places their guild token on the Dragon Guild space labeled "START."
+
+7. Places their remaining player markers, dragons, and cave cards nearby.Places their guild token on the Dragon Guild space labeled "START.
 
 Randomly give a player the start player marker, then begin the game.
 
