@@ -248,32 +248,38 @@ IMPORTANT: Note that hatchlings function differently from other "if activated" d
 NOTE: As all good dracologists know, most hatchlings are born deep underground and require purple crystals to thrive. As such, keep in mind that most hatchlings live in the Amethyst Abyss. If you're looking for hatchlings that live in the Golden Grotto or Crimson Cavern, you may have a hard time finding one!
 
 ## EXPLORE (Page 10)
+
 EXPLORE YOUR CRIMSON CAVERN: Walk your adventurer through your Crimson Cavern and activate any "if activated" abilities that your adventurer passes, following these steps in order:
 
 1. Each time you walk through your Crimson Cavern, you must pay the costs printed on your player mat. The 1st time you enter your Crimson Cavern each round, the cost is 1 coin. If you enter a 2nd time that round, the cost is 1 coin and 1 egg. If you enter a 3rd time that round (this is the max, and it's rare), the cost is 1 coin and 2 eggs.
 
-- If you walk through your Crimson Cavern a 2nd or 3rd time within a round, pay egg(s) from any dragon(s) or nests on your player mat.
+   - If you walk through your Crimson Cavern a 2nd or 3rd time within a round, pay egg(s) from any dragon(s) or nests on your player mat.
 
-- Whenever you enter a cave, leave the paid coin and egg(s) on your player mat (covering the associated cost to track how many times they have explored the cave this round). If the public supply of eggs or coins runs low, players may return excess items to the supply. 3
+   - Whenever you enter a cave, leave the paid coin and egg(s) on your player mat (covering the associated cost to track how many times they have explored the cave this round). If the public supply of eggs or coins runs low, players may return excess items to the supply.
 
-2. Move your adventurer from left to right within your Crimson Cavern, along the path depicted along the bottom of the cave, and activate all "if activated" ( ) abilities that your adventurer passes, in order from left to right.
+2. Move your adventurer from left to right within your Crimson Cavern, along the path depicted along the bottom of the cave, and activate all "if activated" abilities that your adventurer passes, in order from left to right.
 
-- Each time you walk past an "if activated" icon on your player mat, you may activate that ability.
+   - Each time you walk past an "if activated" icon on your player mat, you may activate that ability.
 
-- Each time you move your adventurer onto a dragon that has an "if activated" icon, you may activate that ability.
+   - Each time you move your adventurer onto a dragon that has an "if activated" icon, you may activate that ability.
 
-3. Whenever your adventurer walks onto a dragon), your turn ends. Return your adventurer back to Base Camp.
+4. Whenever your adventurer walks onto a no-entry sign icon, which is a red hexagon with a white horizontal line in the center (a space without a dragon), your turn ends. Return your adventurer back to Base Camp.
 
 ### Example (Page 10)
 
 Tess walks through her Crimson Cavern for the first time this round. She pays 1 coin to do so (placing it onto the designated space at the entrance to her Crimson Cavern) and begins walking her adventurer through the cave from left to right.
-- She walks over and activates the first 1st "Gain " ability in her 3rd Crimson Cavern and . decides to gain
-- Tess then walks onto the Chameleon Coatl. Tess takes no action here, because the Chameleon Coatl does not have an Gain "if activated" ( ) GOLDEN GROTTO ability.
-- Next, Tess walks " over the "Gain ability and advances her guild token 1 space forward on Gain the Dragon Guild track (see page 12). She immediately gains the benefit that her guild token lands on.
-- After that, Tess walks over the Hoarding Flyer and gains
-- Finally, Tess activates the second "Gain " ability in her Crimson Cavern and selects
 
-Tess now ends her action, because even though she has excavated the next space in her Crimson Cavern, she has encountered a ("red negative symbol") and must return her adventurer to Base Camp.
+She walks over and activates the first "Gain Any Resource" ability in her Crimson Cavern and decides to gain meat.
+
+Tess then walks onto the Chameleon Coatl. Tess takes no action here, because the Chameleon Coatl does not have an Gain "if activated" ability.
+
+Next, Tess walks " over the "Gain Dragon Guild" ability and advances her guild token 1 space forward on Gain the Dragon Guild track (see page 12). She immediately gains the benefit that her guild token lands on.
+
+After that, Tess walks over the Hoarding Flyer and gains gold.
+
+Finally, Tess activates the second "Gain Any Resources" ability in her Crimson Cavern and selects crystal.
+
+Tess now ends her action, because even though she has excavated the next space in her Crimson Cavern, she has encountered a a no-entry sign icon, which is a red hexagon with a white horizontal line in the center and must return her adventurer to Base Camp.
 
 EXPLORE YOUR GOLDEN GROTTO: Identical to "Explore your Crimson Cavern," but for your Golden Grotto. Walk your adventurer through your Golden Grotto and activate any "if activated" abilities that you pass.
 
