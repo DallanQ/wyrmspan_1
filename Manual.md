@@ -385,7 +385,7 @@ At The Beginning Of The Next Round:
 
 5. The start player marker advances 1 player clockwise.
 
-## GAME END AND SCORING
+## GAME END AND SCORING (Page 15)
 
 At the end of the game, add up your victory points from the following categories:
 
